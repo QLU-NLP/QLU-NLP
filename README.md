@@ -13,6 +13,10 @@
 4. Xin Zhang, Xueping Peng, Hongjiao Guan, Long Zhao, Xinxiao Qiao\* and Wenpeng Lu\*. Fusion of Dynamic Hypergraph and Clinical Event for Sequential Diagnosis Prediction. Proceedings of the 29th IEEE International Conference on Parallel and Distributed Systems (ICPADS 2023)[C]. Haikou, China, 2023: XXX-XXX. (EI, CCF C, accepted) [[code](https://github.com/HELJJ/MCHN)]
 5. Youhui Zuo, Wenpeng Lu\*, Xueping Peng, Shoujin Wang, Weiyu Zhang and Xinxiao Qiao. DuCL: Dual-stage Contrastive Learning Framework for Chinese Semantic Textual Matching[J]. Computers & Electrical Engineering, 2023, 106: 108574. (SCI, JCR Q2) [[code](https://github.com/yhzuo1005/DuCL)]
 6. Chaoqun Zheng, Fengling Li, Lei Zhu, Zheng Zhang and Wenpeng Lu. One for more: Structured Multi-Modal Hashing for multiple multimedia retrieval tasks[J]. Expert Systems with Applications, 2023, 233: 120913. (SCI, CCF C, 中科院1区) [[code](https://github.com/ChaoqunZheng/SMMH)]
+7. Liu J, Zhao L, Si C, et al. Improved ReliefF-based feature selection algorithm for cancer histology[J]. Biomedical Signal Processing and Control, 2023: 104980. (中科院二区)
+8. Guan, H., Dong, X., Chen, C., Zhao, L., & Ren, X. (2023). Dual objective bounded abstaining model to control performance for safety-critical applications. Engineering Applications of Artificial Intelligence, 126, 106762.(中科院二区)
+9. Guan H, Zhao L, Dong X, et al. Extended natural neighborhood for SMOTE and its variants in imbalanced classification[J]. Engineering Applications of Artificial Intelligence, 2023, 124: 106570. (中科院二区)
+10. Zhao L, Lou Y, Yuan Z, et al. Ga-RFR: Recurrent Feature Reasoning with Gated Convolution for Chinese Inscriptions Image Inpainting[C]//International Conference on Artificial Neural Networks. Cham: Springer Nature Switzerland, 2023: 320-331.（CCF C）
 
 ## 2022 Publications
 
@@ -26,6 +30,9 @@
 8. Youhui Zuo, Xueping Peng, Wenpeng Lu\*, Shoujin Wang, Zhao Li, Weiyu Zhang and Yi Zhai. Chinese Sentence Matching with Multiple Alignments and Feature Augmentation. Proceedings of International Joint Conference on Neural Network (IJCNN 2022)[C]. Padova, Italy, 2022. (EI, CCF C)* [[code](https://github.com/yhzuo1005/MAFA)]
 9. Xu Zhang, Yifeng Li, Xueping Peng, Xinxiao Qiao\*, Hui Zhang and Wenpeng Lu\*. Correlation Encoder-Decoder Model for Text Generation. Proceedings of International Joint Conference on Neural Network (IJCNN 2022)[C]. Padova, Italy, 2022. (EI, CCF C) [[code](https://github.com/zhangxu90s/CED)]
 10. Wenpeng Lu*, Pengyu Zhao, Yifeng Li, Shoujin Wang, Heyan Huang, Shumin Shi and Hao Wu. Chinese Sentence Semantic Matching Based on Multi-level Relevance Extraction and Aggregation for Intelligent Human-robot Interaction [J], Applied Soft Computing, 2022, 131: 109795. (SCI, JCR Q1, 中科院2区) [[code](https://github.com/ZQpengyu/MREA)]
+11. Gong, L., Tu, W., Zhou, S., Zhao, L., Liu, Z., & Liu, X. (2022). Deep Fusion Clustering Network With Reliable Structure Preservation. IEEE Transactions on Neural Networks and Learning Systems. (中科院一区) [[code](https://github.com/gongleii/DFCN-RSP)]
+12. Classifying the multi-omics data of gastric cancer using a deep feature selection method，Yanyu Hu; Long Zhao; Zhao Li; Xiangjun Dong; Tiantian Xu; Yuhai Zhao,Expert Systems With Applications, 2022, 2022(200). （SCI，中科院一区）[[code](https://github.com/huyy96/RDFS)]
+13. 胡艳羽，赵龙，董祥军，两阶段深度特征选择技术，2022.07，计算机科学（CCF B类期刊）
 
 ## 2021 Publications
 
@@ -48,3 +55,8 @@
 ## 2019 Publications
 
 1. Xu Zhang, Wenpeng Lu*, Fangfang Li, Xueping Peng and Ruoyu Zhang. Deep Feature Fusion Model for Sentence Semantic Matching[J]. CMC-Computers, Materials & Continua, 2019, 61(2): 601-616. (SCI, JCR Q2) [[code](https://github.com/zhangxu90s/Work2019_DFF_SSM)]
+
+## 2018 Publications
+
+1. Hou Y, Zhao L, Lu H. Fuzzy neural network optimization and network traffic forecasting based on improved differential evolution[J]. Future Generation Computer Systems, 2018.（SCI，中科院一区）
+2. L. Zhao, "Feature Selection Method based on Grid Partition Data Field," 2018 14th International Conference on Natural Computation, Fuzzy Systems and Knowledge Discovery (ICNC-FSKD), Huangshan, China, 2018, pp. 52-57, doi: 10.1109/FSKD.2018.8687135. （EI）
