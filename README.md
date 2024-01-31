@@ -4,6 +4,8 @@
 
 1. Chaoqun Zheng, Lei Zhu, Zheng Zhang, Wenjun Duan, Wenpeng Lu\*. LCEMH: Label Correlation Enhanced Multi-modal Hashing for Efficient Multi-modal Retrieval [J]. Information Sciences, 2024, 120064. (CCF B, SCI, JCR Q1, 中科院1区) [[code](https://github.com/ChaoqunZheng/LCEMH)]
 2. Zhufeng Shao, Shoujin Wang, Wenpeng Lu\*, Weiyu Zhang, Hongjiao Guan, Long Zhao. Filter-enhanced Hypergraph Transformer Framework for Multi-Behavior Sequential Recommendation. Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024)[C]. Seoul, Korea, 2024. (EI, CCF B, accepted) [[code](https://github.com/zf-shao/FHT-MB)]
+3. Mengxin Cao, Guixin Zhao, Guohua Lv, Aimei Dong, Ying Guo, Xiangjun Dong*.Spectral-Spatial-Language Fusion Network for Hyperspectral, LiDAR, and Text Data Classification. IEEE Transactions on Geoscience and Remote Sensing,2024:1-15.(JCR Q1, 中科院1区)
+4. Ke Liang, Yue Liu, Sihang Zhou, Wenxuan Tu, Yi Wen, Xihong Yang, Xiangjun Dong*, Xinwang Liu*. Knowledge Graph Contrastive Learning Based on Relation-Symmetrical Structure. IEEE Transactions on Knowledge and Data Engineering, 2024:226-238.(JCR Q1, 中科院2区)
 
 ## 2023 Publications
 
@@ -17,6 +19,16 @@
 8. Guan, H., Dong, X., Chen, C., Zhao, L., & Ren, X. (2023). Dual objective bounded abstaining model to control performance for safety-critical applications. Engineering Applications of Artificial Intelligence, 126, 106762.(中科院二区)
 9. Guan H, Zhao L, Dong X, et al. Extended natural neighborhood for SMOTE and its variants in imbalanced classification[J]. Engineering Applications of Artificial Intelligence, 2023, 124: 106570. (中科院二区)
 10. Zhao L, Lou Y, Yuan Z, et al. Ga-RFR: Recurrent Feature Reasoning with Gated Convolution for Chinese Inscriptions Image Inpainting[C]//International Conference on Artificial Neural Networks. Cham: Springer Nature Switzerland, 2023: 320-331.（CCF C）
+11. Hongjiao Guan, Long Zhao*, Xiangjun Dong, Chuan Chen.Extended natural neighborhood for SMOTE and its variants in imbalanced classification[J]. Engineering Applications of Artificial Intelligence, 2023, 124: 106570.(SCI Q1, CCF C,EI) [[code](https://github.com/jiaoshuier/ENaNSMOTE)]
+12. Hongjiao Guan, Xiangjun Dong, Chuan Chen, Long Zhao* and Xiaoqiang Ren*. Dual objective bounded abstaining model to control performance for safety-critical applications[J]. Engineering Applications of Artificial Intelligence, 2023, 126: 106762.(SCI Q1, CCF C,EI) [[code](https://github.com/jiaoshuier/DOBA)]
+13. Fengling Cui, Xiaoqiang Ren, Xiangjun Dong*. Mining Interesting Negative Sequential Patterns Based on Influence. IEEE Access,2023:12925-12936.(JCR Q2, 中科院3区)
+14. Nannan Zhang, Xiaoqiang Ren, Xiangjun Dong*. An Effective Method for Mining Negative Sequential Patterns From Data Streams. IEEE Access,2023:31842-31854.(JCR Q2, 科院3区)
+15. Xu Zhang, Yongshun Gong, Chengqi Zhang, Xiaoming Wu, Ying Guo, Wenpeng Lu, Long Zhao, Xiangjun Dong*. Spatio-temporal fusion and contrastive learning     for urban flow prediction. Knowledge-Based Systems, 2023, 111104. (中科院1区)
+16. Xinming Gao, Yongshun Gong, TianTian Xu, Jinhu Lü, Yuhai Zhao, Xiangjun Dong*. Toward Better Structure and Constraint to Mine Negative Sequential Patterns. IEEE Transactions on Neural Networks and Learning Systems, 2023:571-585. (JCR Q1, 中科院1区)
+17. Ping Qiu, Yongshun Gong, Yuhai Zhao, Longbing Cao, Chengqi Zhang, Xiangjun Dong*. An Efficient Method for Modeling Nonoccurring Behaviors by Negative Sequential Patterns With Loose Constraints. IEEE Transactions on Neural Networks and Learning Systems, 2023:1864-1878. (JCR Q1, 中科院1区)
+18. Xu Zhang, Yongshun Gong, Xinxin Zhang, Xiaoming Wu, Chengqi Zhang, Xiangjun Dong*. Mask- and Contrast-Enhanced Spatio-Temporal Learning for Urban Flow Prediction. Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM '23), 2023:3298–3307. (CCF B)
+19. Mengxin Cao, Guixin Zhao, Aimei Dong, Guohua Lv, Ying Guo, Xiangjun Dong*. Few-Shot Hyperspectral Image Classification Based on Cross-Domain Spectral Semantic Relation Transformer. 2023 IEEE International Conference on Image Processing (ICIP),2023:1375-1379. (CCF C) 
+20. Xiaopei Hu, Guixin Zhao, Aimei Dong, Guohua Lv, Yi Zhai, Ying Guo, Xiangjun Dong*. Few-Shot Hyperspectral Image Classification with Spectral-Spatial Feature Fusion Based on Fuzzy Broad Learning System. 2023 IEEE Internationa Conference on Image Processing (ICIP),2023:3160-3164. (CCF C)
 
 ## 2022 Publications
 
@@ -33,6 +45,12 @@
 11. Gong, L., Tu, W., Zhou, S., Zhao, L., Liu, Z., & Liu, X. (2022). Deep Fusion Clustering Network With Reliable Structure Preservation. IEEE Transactions on Neural Networks and Learning Systems. (中科院一区) [[code](https://github.com/gongleii/DFCN-RSP)]
 12. Classifying the multi-omics data of gastric cancer using a deep feature selection method，Yanyu Hu; Long Zhao; Zhao Li; Xiangjun Dong; Tiantian Xu; Yuhai Zhao,Expert Systems With Applications, 2022, 2022(200). （SCI，中科院一区）[[code](https://github.com/huyy96/RDFS)]
 13. 胡艳羽，赵龙，董祥军，两阶段深度特征选择技术，2022.07，计算机科学（CCF B类期刊）
+14. Yangguang Shao, Yingying Sun, Hongjiao Guan*. Dual Self-Paced SMOTE for Imbalanced Data[C]//2022 26th International Conference on Pattern Recognition (ICPR). IEEE, 2022: 3083-3089.(CCF C)
+15. Yanyu Hu, Long Zhao*, Zhao Li, Xiangjun Dong*, Tiantian Xu, Yuhai Zhao. Classifying the multi-omics data of gastric cancer using a deep feature selection method. Expert Systems with Applications,2022,116813. (JCR Q1, 中科院1区)
+16. Tianwei Zhang, Chuanhou Sun, Zhiyong Cheng*, Xiangjun Dong*. AENAR: An aspect-aware explainable neural attentional recommender model for rating predication. Expert Systems with Applications, 2022, 116717. (JCR Q1, 中科院1区)
+17. Qiang Chi, Guohua Lv, Guixin Zhao, Xiangjun Dong*. A Novel Knowledge     Distillation Method for Self-Supervised Hyperspectral Image Classification. Remote Sensing, 2022,4523. (JCR Q1, 中科院2区)
+18. Kaiyan Chen, Xiangjun Dong*, Weiyang Chen. Face Age Predictions by combining Local and Global Facial Features. 2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2022:2773-2778. (CCF B)
+19. Chuanhou Sun, Xiaoqi Jiang, Xiangjun Dong*, Tiantian Xu, Long Zhao, Zhao Li, Yuhai Zhao. Mining Negative Sequential Rules from Negative Sequential Patterns. Database Systems for Advanced Applications (DASFAA 2022),2022:459-475.(EI, CCF B)
 
 ## 2021 Publications
 
@@ -44,6 +62,7 @@
 6. Pengyu Zhao, Wenpeng Lu\*, Yifeng Li, Jiguo Yu, Ping Jian and Xu Zhang. Chinese Semantic Matching with Multi-granularity Alignment and Feature Fusion. Proceedings of International Joint Conference on Neural Network (IJCNN 2021)[C]. Virtual Event, 2021. (EI, CCF C)* [[code](https://github.com/ZQpengyu/MAFFo)]
 7. Wei Guo, Shoujin Wang, Wenpeng Lu\*, Hao Wu, Qian Zhang and Zhufeng Shao. Sequential Dependency Enhanced Graph Neural Networks for Session-based Recommendations. Proceedings of International Joint Conference on Data Sciences and Advanced Analytics (DSAA 2021)[C]. Virtual Event, 2021. (EI, CCF C, CORE A)* [[code](https:llgithub.com/Aran-Guo/SDE-GNN)]
 8. Ruoyu Zhang, Wenpeng Lu*, Shoujin Wang, Xueping Peng, Rui Yu and Yuan Gao. Chinese Clinical Named Entity Recognition Based on Stacked Neural Network[J]. Concurrency and Computation: Practice and Experience, 2021, 33(22): e5775. (CCF C, SCI, JCR Q3) [[code](https://github.com/ruoyuu/Stacked-Neural-Network-ZRY)]
+9. [Hongjiao Guan](https://link.springer.com/article/10.1007/s10489-020-01852-8#auth-Hongjiao-Guan-Aff1-Aff2-Aff3)*, [Yingtao Zhang](https://link.springer.com/article/10.1007/s10489-020-01852-8#auth-Yingtao-Zhang-Aff3), [Min Xian](https://link.springer.com/article/10.1007/s10489-020-01852-8#auth-Min-Xian-Aff4), [H. D. Cheng](https://link.springer.com/article/10.1007/s10489-020-01852-8#auth-H__D_-Cheng-Aff5), [Xianglong Tang](https://link.springer.com/article/10.1007/s10489-020-01852-8#auth-Xianglong-Tang-Aff3) [J]. SMOTE-WENN: Solving class imbalance and small sample problems by oversampling and distance scaling[J]. Applied Intelligence, 2021, 51: 1394-1409.(SCI Q2, CCF C, EI) [[code](https://github.com/jiaoshuier/SMOTE-WENN)]
 
 ## 2020 Publications
 
@@ -51,10 +70,18 @@
 2. Xu Zhang, Wenpeng Lu*, Guoqiang Zhang, Fangfang Li and Shoujin Wang. Chinese Sentence Semantic Matching Based on Multi-Granularity Fusion Model. Proceedings of the 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2020)[C]. Singapore, 2020: 246-257. (EI, CCF C, CORE A) [[code](https://github.com/zhangxu90s/MGF)]
 3. Yuteng Zhang, Wenpeng Lu*, Weihua Ou, Guoqiang Zhang, Xu Zhang, Jinyong Cheng and Weiyu Zhang. Chinese Medical Question Answer Selection via Hybrid Models Based on CNN and GRU[J]. Multimedia Tools and Applications, 2020(79): 14751-14776. (CCF C, SCI, JCR Q2) [[code](https://github.com/zhangyuteng/MedicalQA-CNN-BiGRU)]
 4. Xu Zhang, Yifeng Li, Wenpeng Lu*, Ping Jian and Guoqiang Zhang. Intra-correlation Encoding for Chinese Sentence Intention Matching. Proceedings of the 28th International Conference on Computational Linguistics (COLING 2020)[C]. Barcelona, Spain, 2020: 5193-5204. (CCF B, CORE A) [[code](https://github.com/zhangxu90s/ICE)]
+5. Xiangjun Dong*, Feng Hao, Long Zhao, Tiantian Xu. An efficient method for pruning redundant negative and positive association rules. Neurocomputing, 2020:245-258. (JCR Q2, 中科院2区)
+6. Yue Lu, Long Zhao*, Zhao Li, Xiangjun Dong*. Genetic Similarity Analysis Based on Positive and Negative Sequence Patterns of DNA. Symmetry, 2020,12(12):2090. (SCI, JCR Q2 )
+7. Mengjiao Zhang, Tiantian Xu*, Zhao Li, Xiqing Han, Xiangjun Dong*. e-HUNSR: An Efficient Algorithm for Mining High Utility Negative Sequential Rules. Symmetry, 2020,12(8):1211. (SCI, JCR Q2 )
+8. Xiangjun Dong, Yongshun Gong*, Longbing Cao*. e-RNSP: An Efficient Method for Mining Repetition Negative Sequential Patterns. IEEE Transactions on Cybernetics, 2020:2084-2096. (JCR Q1, 中科院1区)
+9. Yuhai Zhao*, Xiangjun Dong*, Ying Yin. Effective and Efficient Dense Subgraph Query in Large-Scale Social Internet of Things. IEEE Transactions on Industrial Informatics, 2020:2726-2736. (JCR Q1, 中科院1区)
 
 ## 2019 Publications
 
 1. Xu Zhang, Wenpeng Lu*, Fangfang Li, Xueping Peng and Ruoyu Zhang. Deep Feature Fusion Model for Sentence Semantic Matching[J]. CMC-Computers, Materials & Continua, 2019, 61(2): 601-616. (SCI, JCR Q2) [[code](https://github.com/zhangxu90s/Work2019_DFF_SSM)]
+2. Hongjiao Guan, Yingtao Zhang*, H.D. Cheng, Min Xian, Xianglong Tang . BA2Cs: Bounded abstaining with two constraints of reject rates in binary classification[J]. Neurocomputing, 2019, 357: 125-134.(SCI Q2, CCF C) [[code](https://github.com/jiaoshuier/BA2Cs)]
+3. Guangyao Dong, Han Yan, Guohua Lv*, Xiangjun Dong*. Exploring the Utilization of Gradient Information in SIFT Based Local Image Descriptors. Symmetry, 2019,11(8):998. (SCI, JCR Q2 )
+4. Xiangjun Dong, Ping Qiu, Jinhu Lü*, Longbing Cao, Tiantian Xu. Mining Top- k Useful Negative Sequential Patterns via Learning. IEEE Transactions on Neural Networks and Learning Systems,2019:2764-2778. (JCR Q1, 中科院1区)
 
 ## 2018 Publications
 
