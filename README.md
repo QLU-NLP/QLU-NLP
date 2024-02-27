@@ -11,6 +11,7 @@
 7. Zhizhuo Zhao, Xueping Peng, Yong Li, Hao Wu, Weiyu Zhang, Wenpeng Lu*. Thinking the Importance of Patient's Chief Complaint in TCM Syndrome Differentiation. Proceedings of the 2024 IEEE 27th International Conference on Computer Supported Cooperative Work in Design (CSCWD, 2024)[C]. Tianjin, China, 2024. (CCF C) [[code](https://github.com/zhaozhizhuo/CCSD)]
 8. Xin Zhang, Xueping Peng, Weimin Chen, Weiyu Zhang, Xiaoqiang Ren*, Wenpeng Lu*. Multi-Channel Hypergraph Network for Sequential Diagnosis Prediction in Healthcare. Proceedings of the 2024 IEEE 27th International Conference on Computer Supported Cooperative Work in Design (CSCWD, 2024)[C]. Tianjin, China, 2024. (CCF C) [[code](https://github.com/HELJJ/MCHN)]
 9. Wenpeng Lu*, Guobiao Zhang, Xueping Peng, Hongjiao Guan, Shoujin Wang. Medical Entity Disambiguation with Medical Mention Relation and Fine-grained Entity Knowledge. Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024) [C]. Torino, Italy, 2024. (CCF B) [[code]( https://github.com/Stubborn-z/MMR-FEK)]
+10. Wenpeng Lu*, Sibo Wei, Xueping Peng, Yi-Fei Wang, Usman Naseem and Shoujin Wang. Medical Question Summarization with Entity-driven Contrastive Learning. ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)[J], 2024. (CCF C, SCI, JCR Q2) [[code](https://github.com/yrbobo/MQS-ECL)]
 
 ## 2023 Publications
 
