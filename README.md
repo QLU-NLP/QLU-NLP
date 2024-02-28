@@ -12,7 +12,7 @@
 8. Xin Zhang, Xueping Peng, Weimin Chen, Weiyu Zhang, Xiaoqiang Ren*, Wenpeng Lu*. Multi-Channel Hypergraph Network for Sequential Diagnosis Prediction in Healthcare. Proceedings of the 2024 IEEE 27th International Conference on Computer Supported Cooperative Work in Design (CSCWD, 2024)[C]. Tianjin, China, 2024. (CCF C) [[code](https://github.com/HELJJ/MCHN)]
 9. Wenpeng Lu*, Guobiao Zhang, Xueping Peng, Hongjiao Guan, Shoujin Wang. Medical Entity Disambiguation with Medical Mention Relation and Fine-grained Entity Knowledge. Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024) [C]. Torino, Italy, 2024. (CCF B) [[code]( https://github.com/Stubborn-z/MMR-FEK)]
 10. Wenpeng Lu*, Sibo Wei, Xueping Peng, Yi-Fei Wang, Usman Naseem and Shoujin Wang. Medical Question Summarization with Entity-driven Contrastive Learning. ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)[J], 2024. (CCF C, SCI, JCR Q2) [[code](https://github.com/yrbobo/MQS-ECL)]
-11. Shujie Dong, Yuansheng Liu, Yongshun Gong, Xiangjun Dong* and Xiangxiang Zeng. scCAN: Clustering with adaptive neighbor-based imputation method for single-cell RNA-seq data[J]. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2024. (CCF B) [[code](https://https://github.com/dsj1998/scCAN)]
+11. Shujie Dong, Yuansheng Liu, Yongshun Gong, Xiangjun Dong* and Xiangxiang Zeng. scCAN: Clustering with adaptive neighbor-based imputation method for single-cell RNA-seq data[J]. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2024. (CCF B, 中科院3区, JCR Q1) [[code](https://https://github.com/dsj1998/scCAN)]
 
 ## 2023 Publications
 
