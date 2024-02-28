@@ -29,8 +29,9 @@
 11. Xinming Gao, Yongshun Gong, TianTian Xu, Jinhu Lü, Yuhai Zhao, Xiangjun Dong*. Toward Better Structure and Constraint to Mine Negative Sequential Patterns. IEEE Transactions on Neural Networks and Learning Systems, 2023:571-585. (CCF B, 中科院1区, JCR Q1)
 12. Ping Qiu, Yongshun Gong, Yuhai Zhao, Longbing Cao, Chengqi Zhang, Xiangjun Dong*. An Efficient Method for Modeling Nonoccurring Behaviors by Negative Sequential Patterns With Loose Constraints. IEEE Transactions on Neural Networks and Learning Systems, 2023:1864-1878. (CCF B, 中科院1区, JCR Q1)
 13. Xu Zhang, Yongshun Gong, Xinxin Zhang, Xiaoming Wu, Chengqi Zhang, Xiangjun Dong*. Mask- and Contrast-Enhanced Spatio-Temporal Learning for Urban Flow Prediction. Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM '23), 2023:3298–3307. (CCF B)
-14. Mengxin Cao, Guixin Zhao, Aimei Dong, Guohua Lv, Ying Guo, Xiangjun Dong*. Few-Shot Hyperspectral Image Classification Based on Cross-Domain Spectral Semantic Relation Transformer. 2023 IEEE International Conference on Image Processing (ICIP),2023:1375-1379. (CCF C) 
-15. Xiaopei Hu, Guixin Zhao, Aimei Dong, Guohua Lv, Yi Zhai, Ying Guo, Xiangjun Dong*. Few-Shot Hyperspectral Image Classification with Spectral-Spatial Feature Fusion Based on Fuzzy Broad Learning System. 2023 IEEE Internationa Conference on Image Processing (ICIP),2023:3160-3164. (CCF C)
+14. Mengxin Cao, Guixin Zhao, Aimei Dong, Guohua Lv, Ying Guo, Xiangjun Dong*.Few-Shot Hyperspectral Image Classification Based on Cross-Domain Spectral Semantic Relation Transformer[C]//2023 IEEE International Conference on Image Processing (ICIP). IEEE, 2023: 1375-1379. (CCF C) 
+15. Xiaopei Hu, Guixin Zhao, Aimei Dong, Guohua Lv, Yi Zhai, Ying Guo, Xiangjun Dong*. Few-Shot Hyperspectral Image Classification with Spectral-Spatial Feature Fusion Based on Fuzzy Broad Learning System[C]//2023 IEEE International Conference on Image Processing (ICIP). IEEE, 2023: 3160-3164. (CCF C)
+16. 郭新超,张维玉*,夏忠秀.双向数据增强图卷积网络[J].计算机工程与设计.2023.10(中文核心期刊，CCF C)
 
 ## 2022 Publications
 
