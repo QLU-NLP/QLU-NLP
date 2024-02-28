@@ -33,7 +33,7 @@
 15. Xiaopei Hu, Guixin Zhao, Aimei Dong, Guohua Lv, Yi Zhai, Ying Guo, Xiangjun Dong*. Few-Shot Hyperspectral Image Classification with Spectral-Spatial Feature Fusion Based on Fuzzy Broad Learning System[C]. Proceedings of the 2023 IEEE International Conference on Image Processing (ICIP). IEEE, 2023: 3160-3164. (CCF C)
 16. 郭新超,张维玉*,夏忠秀.双向数据增强图卷积网络[J].计算机工程与设计.2023.10(中文核心期刊，CCF C)
 17. Zihong Zhu, Weiyu Zhang*, Xinchao Guo, Xinxiao Qiao.Lorentzian Graph Convolution Networks for Collaborative Filtering. Proceedings of International Joint Conference on Neural Network   (IJCNN 2023)[C]. Queensland, Australia,2023.2023: 1-8.（CCF C）
-18. Hui Han, Weiyu Zhang*, Xu Sun, Wenpeng Lu. Multi-View Feature Fusion Based on Self-Attention Mechanism for Drug-Drug Interaction Prediction. Proceedings of  International Joint Conference on Neural Network  (IJCNN 2023)[C]. Queensland, Australia,2023.（CCF C）2023: 1-8.
+18. Hui Han, Weiyu Zhang*, Xu Sun, Wenpeng Lu. Multi-View Feature Fusion Based on Self-Attention Mechanism for Drug-Drug Interaction Prediction. Proceedings of  International Joint Conference on Neural Network  (IJCNN 2023)[C]. Queensland, Australia,2023.2023: 1-8.（CCF C）
 19. Yan Ming*, Yong Shang, Huiting Li. Relation Extraction with Knowledge-enhanced Prompt-tuning on Multimodal Knowledge Graph. Proceedings of International Conference on Systems, Man, and Cybernetics (SMC 2023)[C]. Maui, Hawaii, 2023.2023: 460-465.（CCF C）
 20. Xu Sun, Weiyu Zhang*, Xinchao Guo, Wenpeng Lu. Unsupervised Graph Neural Network with Self-Expressive Attention for Community Detection. Proceedings of International Conference on Computer Supported Cooperative Work in Design (CSCWD 2023). Rio de Janeiro, Brazil ,2023. 2023: 1890-1895. (CCF C, EI)
 
