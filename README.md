@@ -4,7 +4,7 @@
 
 **2024年已发表/录用CCF A/中科院1区论文3篇；CCF B/中科院2区论文3篇；CCF C/中科院3区论文5篇。**
 
-1. Chaoqun Zheng, Lei Zhu, Zheng Zhang, Wenjun Duan, Wenpeng Lu*. LCEMH: Label Correlation Enhanced Multi-modal Hashing for Efficient Multi-modal Retrieval [ J]. **Information Sciences**, 2024, 659:120064. (CCF B, SCI, JCR Q1, **中科院1区**) [[code](https://github.com/ChaoqunZheng/LCEMH)]
+1. Chaoqun Zheng, Lei Zhu, Zheng Zhang, Wenjun Duan, Wenpeng Lu*. LCEMH: Label Correlation Enhanced Multi-modal Hashing for Efficient Multi-modal Retrieval [J]. **Information Sciences**, 2024, 659:120064. (CCF B, SCI, JCR Q1, **中科院1区**) [[code](https://github.com/ChaoqunZheng/LCEMH)]
 2. Ke Liang, Yue Liu, Sihang Zhou, Wenxuan Tu, Yi Wen, Xihong Yang, Xiangjun Dong*, Xinwang Liu*. Knowledge Graph Contrastive Learning Based on Relation-Symmetrical Structure. **IEEE Transactions on Knowledge and Data Engineering**, 2024:226-238.(**CCF A**, 中科院2区, JCR Q1)
 3. Mengxin Cao, Guixin Zhao, Guohua Lv, Aimei Dong, Ying Guo, Xiangjun Dong*. Spectral-Spatial-Language Fusion Network for Hyperspectral, LiDAR, and Text Data Classification. **IEEE Transactions on Geoscience and Remote Sensing**, 2024:1-15.(CCF B, **中科院1区**, JCR Q1) [[code](https://github.com/qiangchi/SSKD)]
 4. Zhufeng Shao, Shoujin Wang, Wenpeng Lu*, Weiyu Zhang, Hongjiao Guan, Long Zhao. Filter-enhanced Hypergraph Transformer Framework for Multi-Behavior Sequential Recommendation. Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2024**)[C]. Seoul, Korea, 2024. (EI, **CCF B**, accepted) [[code](https://github.com/zf-shao/FHT-MB)]
