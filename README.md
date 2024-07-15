@@ -2,7 +2,7 @@
 
 ## 2024 Publications
 
-**2024年已发表/录用CCF A/中科院1区论文3篇；CCF B/中科院2区论文4篇；CCF C/中科院3区论文5篇。**
+**2024年已发表/录用CCF A/中科院1区论文3篇；CCF B/中科院2区论文4篇；CCF C/中科院3区论文8篇。**
 
 1. Chaoqun Zheng, Lei Zhu, Zheng Zhang, Wenjun Duan, Wenpeng Lu*. LCEMH: Label Correlation Enhanced Multi-modal Hashing for Efficient Multi-modal Retrieval [J]. **Information Sciences**, 2024, 659:120064. (CCF B, SCI, JCR Q1, **中科院1区**) [[code](https://github.com/ChaoqunZheng/LCEMH)]
 2. Ke Liang, Yue Liu, Sihang Zhou, Wenxuan Tu, Yi Wen, Xihong Yang, Xiangjun Dong*, Xinwang Liu*. Knowledge Graph Contrastive Learning Based on Relation-Symmetrical Structure. **IEEE Transactions on Knowledge and Data Engineering**, 2024:226-238.(**CCF A**, 中科院2区, JCR Q1)
