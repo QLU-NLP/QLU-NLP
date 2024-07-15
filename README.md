@@ -2,7 +2,7 @@
 
 ## 2024 Publications
 
-**2024年已发表/录用CCF A/中科院1区论文3篇；CCF B/中科院2区论文3篇；CCF C/中科院3区论文5篇。**
+**2024年已发表/录用CCF A/中科院1区论文3篇；CCF B/中科院2区论文4篇；CCF C/中科院3区论文5篇。**
 
 1. Chaoqun Zheng, Lei Zhu, Zheng Zhang, Wenjun Duan, Wenpeng Lu*. LCEMH: Label Correlation Enhanced Multi-modal Hashing for Efficient Multi-modal Retrieval [J]. **Information Sciences**, 2024, 659:120064. (CCF B, SCI, JCR Q1, **中科院1区**) [[code](https://github.com/ChaoqunZheng/LCEMH)]
 2. Ke Liang, Yue Liu, Sihang Zhou, Wenxuan Tu, Yi Wen, Xihong Yang, Xiangjun Dong*, Xinwang Liu*. Knowledge Graph Contrastive Learning Based on Relation-Symmetrical Structure. **IEEE Transactions on Knowledge and Data Engineering**, 2024:226-238.(**CCF A**, 中科院2区, JCR Q1)
@@ -18,6 +18,7 @@
 12. Yafang Li, Chaoqun Zheng∗, Ruifan Zuo, Wenpeng Lu. Semantic Reconstruction Guided Missing Cross-modal Hashing. Proceedings of the 2024 International Joint Conference on Neural Network (**IJCNN 2024**)[C]. Yokohama, Japan, 2024: 1-8. (CCF C) [[code](https://github.com/Lyf1590/SRGMH)]
 13. Yong Shang, Xiaoding Zhou, Yan Ming, Yuyan Zheng, Huiting Li, Weiyu Zhang*. Type-aware Enhanced Cylinder Embedding for Multi-hop Reasoning over Knowledge Graphs. Proceeding of the 2024 International Joint Conference on Neural Network (**IJCNN 2024**)[C]. Yokohama, Japan, 2024: 1-8. (CCF C) [[code](https://github.com/SANJINPANG/TECE)]
 14. Huiting Li, Weiyu Zhang∗, Yong Shang, Wenpeng Lu. Collaborative Prediction of Drug-target Interaction using Sequence-based CNN and Transformer. Proceedings of the 27th International Conference on Computer Supported Cooperative Work in Design (**CSCWD 2024**)[C]. Tianjin, China, 2024. (CCF C, accepted) [[code](https://github.com/Leehuit/SCTDTI)]
+15. Zhizhuo Zhao, Wenpeng Lu*, Xueping Peng, Lumin Xing, Weiyu Zhang, and Chaoqun Zheng. Automated ICD Coding via Contrastive Learning with Back-reference and Synonym Knowledge for Smart Self-diagnosis Applications. IEEE Transactions on Consumer Electronics, 2024. (CCF B, accepted) [[code](https://github.com/zhaozhizhuo/ICD-BRSK)]
 
 ## 2023 Publications
 
