@@ -5,9 +5,9 @@
 **2025年已发表/录用CCF A/中科院1区论文3篇；CCF B/中科院2区论文2篇。**
 
 1. Yishuo Li, Qi Zhang, Wenpeng Lu*, Xueping Peng, Weiyu Zhang, Jiasheng Si, Yongshun Gong, Liang Hu. Time-aware Medication Recommendation via Intervention of Dynamic Treatment Regimes. Proceedings of the ACM Web Conference(**WWW2025**)[C]. Sydney,Australia, 2025. (**CCF A**, accepted) [[code](https://github.com/liyifo/MR-DT)]
-2. Ruifan Zuo, Chaoqun Zheng*(唯一通讯), Fengling Li, Lei Zhu, Zheng Zhang. Privacy-Enhanced Prototype-based Federated Cross-modal Hashing for Cross-modal Retrieval（**TOMM** **CCF-B期刊** 中科院三区  JCRQ1）[[code](https://github.com/vindahi/PEPFCH)]
-3. Ruifan Zuo, Chaoqun Zheng*(唯一通讯), Lei Zhu, Wenpeng Lu, Yuanyuan Xiang, Zhao Li, Xiaofeng Qu. Learning Together Securely: Prototype-based Federated Multi-modal Hashing for Safe and Efficient Multi-modal Retrieval（**AAAI** ，**CCF-A会议**）[[code](https://github.com/vindahi/PMFH)]
-4. Ruifan Zuo, Chaoqun Zheng*(唯一通讯), Lei Zhu, Wenpeng Lu, Jiasheng Si, Weiyu Zhang. Compact-yet-Separate: Proto-centric Multi-modal Hashing with Pronounced Category Differences for Multi-modal Retrieval（**TMM**，**中科院一区Top**，CCF-B   JCRQ1）[[code](https://github.com/vindahi/PMH-PCD)]
+2. Ruifan Zuo, Chaoqun Zheng*, Fengling Li, Lei Zhu, Zheng Zhang. Privacy-Enhanced Prototype-based Federated Cross-modal Hashing for Cross-modal Retrieval（**TOMM** **CCF-B期刊** 中科院三区  JCRQ1）[[code](https://github.com/vindahi/PEPFCH)]
+3. Ruifan Zuo, Chaoqun Zheng*, Lei Zhu, Wenpeng Lu, Yuanyuan Xiang, Zhao Li, Xiaofeng Qu. Learning Together Securely: Prototype-based Federated Multi-modal Hashing for Safe and Efficient Multi-modal Retrieval（**AAAI** ，**CCF-A会议**）[[code](https://github.com/vindahi/PMFH)]
+4. Ruifan Zuo, Chaoqun Zheng*, Lei Zhu, Wenpeng Lu, Jiasheng Si, Weiyu Zhang. Compact-yet-Separate: Proto-centric Multi-modal Hashing with Pronounced Category Differences for Multi-modal Retrieval（**TMM**，**中科院一区Top**，CCF-B   JCRQ1）[[code](https://github.com/vindahi/PMH-PCD)]
 5. Yang Liu, Weiyu Zhang*, Jiasheng Si, Zhao Li, Xueping Peng, Wenpeng Lu. Generating Personalized Imputations for Patient Health Status Prediction in Electronic Health Records(**BIBM**,**CCF-B会议**)[[code](https://github.com/cling6666/SPIME)]
 
 
