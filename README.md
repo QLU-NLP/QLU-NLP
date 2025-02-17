@@ -30,6 +30,7 @@
 13. Yong Shang, Xiaoding Zhou, Yan Ming, Yuyan Zheng, Huiting Li, Weiyu Zhang*. Type-aware Enhanced Cylinder Embedding for Multi-hop Reasoning over Knowledge Graphs. Proceeding of the 2024 International Joint Conference on Neural Network (**IJCNN 2024**)[C]. Yokohama, Japan, 2024: 1-8. (CCF C) [[code](https://github.com/SANJINPANG/TECE)]
 14. Huiting Li, Weiyu Zhang, Yong Shang, Wenpeng Lu. Collaborative Prediction of Drug-target Interaction using Sequence-based CNN and Transformer. Proceedings of the 27th International Conference on Computer Supported Cooperative Work in Design (**CSCWD 2024**) [C], Tianjin, China, 2024: 2276-2281. (**CCF C**) [[code](https://github.com/Leehuit/SCTDTI)]
 15. Zhizhuo Zhao, Wenpeng Lu*, Xueping Peng, Lumin Xing, Weiyu Zhang and Chaoqun Zheng*. Automated ICD Coding via Contrastive Learning with Back-Reference and Synonym Knowledge for Smart Self-Diagnosis Applications [J]. **IEEE Transactions on Consumer Electronics**, 2024, 70(3): 6042-6053. (**中科院2区**, JCR Q1) [[code](https://github.com/zhaozhizhuo/ICD-BRSK)]
+16. Guobiao Zhang, Xueping Peng, Tao Shen, Guodong Long, Jiasheng Si, Libo Qin, Wenpeng Lu*. Extractive Medical Entity Disambiguation with Memory Mechanism and Memorized Entity Information.  In Findings of the Association for Computational Linguistics: **EMNLP 2024**[C]. Miami, Florida, USA, 2024: 13811-13822. (**CCF B**)[[code](https://github.com/Stubborn-z/MMME)]
 
 ## 2023 Publications
 
