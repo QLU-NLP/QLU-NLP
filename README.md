@@ -16,7 +16,7 @@
 
 ## 2024 Publications
 
-**2024年已发表/录用CCF A/中科院1区论文3篇；CCF B/中科院2区论文5篇；CCF C/中科院3区论文8篇。**
+**2024年已发表/录用CCF A/中科院1区论文4篇；CCF B/中科院2区论文5篇；CCF C/中科院3区论文8篇。**
 
 1. Chaoqun Zheng, Lei Zhu, Zheng Zhang, Wenjun Duan, Wenpeng Lu*. LCEMH: Label Correlation Enhanced Multi-modal Hashing for Efficient Multi-modal Retrieval [J]. **Information Sciences**, 2024, 659:120064. (CCF B, SCI, JCR Q1, **中科院1区**) [[code](https://github.com/ChaoqunZheng/LCEMH)]
 2. Ke Liang, Yue Liu, Sihang Zhou, Wenxuan Tu, Yi Wen, Xihong Yang, Xiangjun Dong*, Xinwang Liu*. Knowledge Graph Contrastive Learning Based on Relation-Symmetrical Structure. **IEEE Transactions on Knowledge and Data Engineering**, 2024:226-238.(**CCF A**, 中科院2区, JCR Q1)
@@ -35,6 +35,7 @@
 15. Zhizhuo Zhao, Wenpeng Lu*, Xueping Peng, Lumin Xing, Weiyu Zhang and Chaoqun Zheng*. Automated ICD Coding via Contrastive Learning with Back-Reference and Synonym Knowledge for Smart Self-Diagnosis Applications [J]. **IEEE Transactions on Consumer Electronics**, 2024, 70(3): 6042-6053. (**中科院2区**, JCR Q1) [[code](https://github.com/zhaozhizhuo/ICD-BRSK)]
 16. Guobiao Zhang, Xueping Peng, Tao Shen, Guodong Long, Jiasheng Si, Libo Qin, Wenpeng Lu*. Extractive Medical Entity Disambiguation with Memory Mechanism and Memorized Entity Information.  In Findings of the Association for Computational Linguistics: **EMNLP 2024**
 [C]. Miami, Florida, USA, 2024: 13811-13822. (**CCF B**)[[code](https://github.com/Stubborn-z/MMME)]
+17. Jiasheng Si, Yibo Zhao, Yingjie Zhu, Haiyang Zhu, Wenpeng Lu and Deyu Zhou. CHECKWHY: Causal Fact Verification via Argument Structure. Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024) [C]. Bangkok, Thailand, 2024: 15636-15659. (**CCF A**，杰出论文奖，领域主席奖)[[code](https://github.com/ jasenchn/checkwhy)]
 
 
 ## 2023 Publications
