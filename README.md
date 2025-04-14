@@ -2,7 +2,7 @@
 
 ## 2025 Publications
 
-**2025年已发表/录用CCF A/中科院1区论文3篇；CCF B/中科院2区论文2篇；CCF C/中科院3区论文2篇。**
+**2025年已发表/录用CCF A/中科院1区论文3篇；CCF B/中科院2区论文2篇；CCF C/中科院3区论文3篇。**
 
 1. Yishuo Li, Qi Zhang, Wenpeng Lu*, Xueping Peng, Weiyu Zhang, Jiasheng Si, Yongshun Gong, Liang Hu. Time-aware Medication Recommendation via Intervention of Dynamic Treatment Regimes. Proceedings of the ACM Web Conference(**WWW 2025**)[C]. Sydney,Australia, 2025. (**CCF A**, accepted) [[code](https://github.com/liyifo/MR-DTR)]
 2. Ruifan Zuo, Chaoqun Zheng*, Fengling Li, Lei Zhu, Zheng Zhang. Privacy-Enhanced Prototype-based Federated Cross-modal Hashing for Cross-modal Retrieval [J]. **ACM Transactions on Multimedia Computing, Communications and Applications**, 2025 (**CCF B**,中科院3区, JCR Q1) (accepted)[[code](https://github.com/vindahi/PEPFCH)]
@@ -11,6 +11,7 @@
 5. Yang Liu, Weiyu Zhang*, Jiasheng Si, Zhao Li, Xueping Peng, Wenpeng Lu. Generating Personalized Imputations for Patient Health Status Prediction in Electronic Health Records. Proceedings of the 2025 IEEE International Conference on Bioinformatics and Biomedicine (**BIBM 2025**) [C]. Lisbon, Portugal. (**CCF B**) (accepted)[[code](https://github.com/cling6666/SPIME)]
 6. Rui Wang, Yonghe Chen, Weiyu Zhang*, Jiasheng Si，Hongjiao Guan，Xueping Peng, and Wenpeng Lu. MedConMA: A Confidence-Driven Multi-Agent Framework for Medical Q&A. The 29th Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD 2025**) [C]. Sydney, Australia. (**CCF C**) (accepted)[[code](https://github.com/w1031343245/MedConMA/tree/master)]
 7. Yong Shang, Weiyu Zhang*, Huiting Li, Yang Liu, Wenpeng Lu. A Novel Framework for Multi-hop Reasoning via Alternate Entity and Sequence Generation.The 29th Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD 2025**) [C]. Sydney, Australia. (**CCF C**) (accepted)[[code](https://github.com/SANJINPANG/AESG-multihop-reasoning.git)]
+8. Sibo Wei, Xueping Peng, Yan Jiang, Zhao Li, Yan Liu, Zhiqiang Wang, Wenpeng Lu*. Improving Medical Question Summarization through Re-ranking. Proceedings of the 2025 International Joint Conference on Neural Network (**IJCNN 2025**)[C]. Rome, Italy, 2025: 1-8. (**CCF C**) [[code](https://github.com/yrbobo/MQS-Reranker)]
 
 
 
