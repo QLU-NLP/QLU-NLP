@@ -35,7 +35,7 @@
 15. Zhizhuo Zhao, Wenpeng Lu*, Xueping Peng, Lumin Xing, Weiyu Zhang and Chaoqun Zheng*. Automated ICD Coding via Contrastive Learning with Back-Reference and Synonym Knowledge for Smart Self-Diagnosis Applications [J]. **IEEE Transactions on Consumer Electronics**, 2024, 70(3): 6042-6053. (**中科院2区**, JCR Q1) [[code](https://github.com/zhaozhizhuo/ICD-BRSK)]
 16. Guobiao Zhang, Xueping Peng, Tao Shen, Guodong Long, Jiasheng Si, Libo Qin, Wenpeng Lu*. Extractive Medical Entity Disambiguation with Memory Mechanism and Memorized Entity Information.  In Findings of the Association for Computational Linguistics: **EMNLP 2024**
 [C]. Miami, Florida, USA, 2024: 13811-13822. (**CCF B**)[[code](https://github.com/Stubborn-z/MMME)]
-17. Jiasheng Si, Yibo Zhao, Yingjie Zhu, Haiyang Zhu, Wenpeng Lu and Deyu Zhou. CHECKWHY: Causal Fact Verification via Argument Structure. Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (**ACL 2024**) [C]. Bangkok, Thailand, 2024: 15636-15659. (**CCF A**，杰出论文奖，领域主席奖)
+
 
 ## 2023 Publications
 
