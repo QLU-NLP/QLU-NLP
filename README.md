@@ -18,9 +18,10 @@
 12. Kaiyuan Zhang, Qian Liu, Luyang Zhang, Chaoqun Zheng, Shuaimin Li, Bing Xu, Muyun Yang, Xinxiao Qiao*, Wenpeng Lu*. MADAWSD: Multi-Agent Debate Framework for Adversarial Word Sense Disambiguation. Proceedings of the 30th Empirical Methods in Natural Language Processing (**EMNLP 2025**) [C]. Suzhou, China, 2025. (**CCF B**) (accepted) [[code](https://github.com/KaiyCheung/MADAWSD)]
 13. Li X, Zhang Y, Long G, et al. Adaptive Traffic Forecasting on Daily Basis: A Spatio-Temporal Context Learning Approach[J]. IEEE Transactions on Knowledge & Data Engineering (**TKDE**). 2025, (01): 1-14. (**CCF A**, 中科院1区, JCR Q1)
 14. Qin L, Wei F, Chen Q, et al. Croprompt: Cross-task interactive prompting for zero-shot spoken language understanding. Proceedings of the 50th IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2025**) [C]. Hyderabad, India, 2025: 1-5. (**CCF B**)
-15. Wang P, Lu W, Lu C, et al. Large Language Model for Medical Images: A Survey of Taxonomy, Systematic Review, and Future Trends[J]. Big Data Mining and Analytics (**BDMA**). 2025, 8(2): 496-517. (**CCF T1**, 中科院1区, JCR Q1)
-16. Zhang X, Lin Z, Hu X, et al. SECON: Maintaining semantic consistency in data augmentation for code search[J]. **ACM Transactions on Information Systems**. 2025, 43(2): 1-26. (**CCF A**, 中科院2区, JCR Q1)
+15. Wang P, Lu W, Lu C, et al. Large Language Model for Medical Images: A Survey of Taxonomy, Systematic Review, and Future Trends [J]. Big Data Mining and Analytics (**BDMA**). 2025, 8(2): 496-517. (**CCF T1**, 中科院1区, JCR Q1)
+16. Zhang X, Lin Z, Hu X, et al. SECON: Maintaining semantic consistency in data augmentation for code search [J]. **ACM Transactions on Information Systems**. 2025, 43(2): 1-26. (**CCF A**, 中科院2区, JCR Q1)
 17. Liu X, Xu B, Yang M, et al. A Chain-of-Task Framework for Instruction Tuning of LLMs Based on Chinese Grammatical Error Correction. Proceedings of the 31st International Conference on Computational Linguistics (**COLING 2025**) [C]. Abu Dhabi, United Arab Emirates, 2025: 8623-8639. (**CCF B**) [[code](https://github.com/lxp991108/CoCGEC)]
+18. Zhang Q, Wang S, Cao L, et al. Semantic Relation Guided Dual-view Contrastive Learning for Session-based Recommendations [J]. **ACM Transactions on Information Systems**. 2025, 43(6): 1-36. (**CCF A**, 中科院1区, JCR Q1) [[code](https://github.com/Nishikata97/SCL-SR)]
 
 
 
