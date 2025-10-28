@@ -2,7 +2,7 @@
 
 ## 2025 Publications
 
-**2025年已发表/录用论文目前共18篇，其中CCF A/中科院1区论文7篇；CCF B/中科院2区论文8篇；CCF C/中科院3区论文3篇。**
+**2025年已发表/录用论文目前共18篇，其中CCF A/中科院1区论文8篇；CCF B/中科院2区论文8篇；CCF C/中科院3区论文3篇。**
 
 1. Yishuo Li, Qi Zhang, Wenpeng Lu*, Xueping Peng, Weiyu Zhang, Jiasheng Si, Yongshun Gong, Liang Hu. Time-aware Medication Recommendation via Intervention of Dynamic Treatment Regimes. Proceedings of the ACM Web Conference (**WWW 2025**) [C]. Sydney, Australia, 2025: 5161-5172. (**CCF A**) [[code](https://github.com/liyifo/MR-DTR)]
 2. Ruifan Zuo, Chaoqun Zheng*, Fengling Li, Lei Zhu, Zheng Zhang. Privacy-Enhanced Prototype-based Federated Cross-modal Hashing for Cross-modal Retrieval [J]. **ACM Transactions on Multimedia Computing, Communications and Applications**, 2024, 20(9): 1-19. (**CCF B**, 中科院3区, JCR Q1) [[code](https://github.com/vindahi/PEPFCH)]
