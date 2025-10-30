@@ -28,7 +28,7 @@
 3. Sibo Wei, Xueping Peng, Yan Jiang, Zhao Li, Yan Liu, Zhiqiang Wang, Wenpeng Lu*. Improving Medical Question Summarization through Re-ranking. Proceedings of the 2025 International Joint Conference on Neural Network (**IJCNN 2025**) [C]. Rome, Italy, 2025: 1-8. (**CCF C**) [[code](https://github.com/yrbobo/MQS-Reranker)]
 
 
-### 2024 Publications
+## 2024 Publications
 
 **2024年已发表/录用CCF A/中科院1区论文4篇；CCF B/中科院2区论文6篇；CCF C/中科院3区论文8篇。**
 
