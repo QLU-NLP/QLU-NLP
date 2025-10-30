@@ -27,7 +27,7 @@
 1. Rui Wang, Yonghe Chen, Weiyu Zhang*, Jiasheng Si，Hongjiao Guan，Xueping Peng, and Wenpeng Lu. MedConMA: A Confidence-Driven Multi-Agent Framework for Medical Q&A. Proceedings of the 29th Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD 2025**) [C]. Sydney, Australia, 2025: 421-433. (**CCF C**) [[code](https://github.com/w1031343245/MedConMA/tree/master)]
 2. Yong Shang, Weiyu Zhang*, Huiting Li, Yang Liu, Wenpeng Lu. A Novel Framework for Multi-hop Reasoning via Alternate Entity and Sequence Generation. Proceedings of the 29th Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD 2025**) [C]. Sydney, Australia, 2025: 456-467. (**CCF C**) [[code](https://github.com/SANJINPANG/AESG-multihop-reasoning.git)]
 3. Sibo Wei, Xueping Peng, Yan Jiang, Zhao Li, Yan Liu, Zhiqiang Wang, Wenpeng Lu*. Improving Medical Question Summarization through Re-ranking. Proceedings of the 2025 International Joint Conference on Neural Network (**IJCNN 2025**) [C]. Rome, Italy, 2025: 1-8. (**CCF C**) [[code](https://github.com/yrbobo/MQS-Reranker)]
-4. Guoyu Ma, Xiaoqiang Ren, Yan Jiang*, Hongjiao Guan, Bing Xu. From Feature Alignment to Multimodal Fusion: A Two-Stage Primary Modality-Guided Approach for MSA. Proceedings of the 2025 ACM Multimedia Asia (**MMAsia 2025**) [C].Kuala Lumpur, Malaysia. (**CCF C**) [[code](https://github.com/Kaisa777/TSPMG)] (accepted)
+4. Guoyu Ma, Xiaoqiang Ren, Yan Jiang*, Hongjiao Guan, Bing Xu. From Feature Alignment to Multimodal Fusion: A Two-Stage Primary Modality-Guided Approach for MSA. Proceedings of the 2025 ACM Multimedia Asia (**MMAsia 2025**) [C].Kuala Lumpur, Malaysia. (**CCF C**) (accepted) [[code](https://github.com/Kaisa777/TSPMG)]
 
 
 ## 2024 Publications
