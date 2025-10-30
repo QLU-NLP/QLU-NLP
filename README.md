@@ -1,18 +1,21 @@
 # Research Group's Annual Work
 
 ## 2025 Publications
-**2025年已发表/录用论文目前共20篇，其中：CCF A/中科院1区论文9篇：CCF B/中科院2区论文7篇；CCF C/中科院3区论文4篇。**
+**2025年已发表/录用论文目前共24篇，其中：CCF A/中科院1区论文12篇：CCF B/中科院2区论文7篇；CCF C/中科院3区论文5篇。**
 
-### CCF A/中科院1区论文9篇：
+### CCF A/中科院1区论文12篇：
 1. Yishuo Li, Qi Zhang, Wenpeng Lu*, Xueping Peng, Weiyu Zhang, Jiasheng Si, Yongshun Gong, Liang Hu. Time-aware Medication Recommendation via Intervention of Dynamic Treatment Regimes. Proceedings of the ACM Web Conference (**WWW 2025**) [C]. Sydney, Australia, 2025: 5161-5172. (**CCF A**) [[code](https://github.com/liyifo/MR-DTR)]
 2. Ruifan Zuo, Chaoqun Zheng*, Lei Zhu, Wenpeng Lu, Yuanyuan Xiang, Zhao Li, Xiaofeng Qu. Learning Together Securely: Prototype-based Federated Multi-modal Hashing for Safe and Efficient Multi-modal Retrieval, Proceedings of the 39th AAAI Conference on Artificial Intelligence (**AAAI 2025**) [C]. Philadelphia, Pennsylvania, USA, 2025, 39(21): 23108-23116. (**CCF A**) [[code](https://github.com/vindahi/PMFH)]
 3. Ruifan Zuo, Chaoqun Zheng*, Lei Zhu, Wenpeng Lu, Jiasheng Si, Weiyu Zhang. Compact-yet-Separate: Proto-centric Multi-modal Hashing with Pronounced Category Differences for Multi-modal Retrieval [J]. **IEEE Transactions on Multimedia**. 2025, 1-14. (**中科院1区**, JCR Q1) [[code](https://github.com/vindahi/PMH-PCD)]
 4. Hongru Ma, Wenpeng Lu, Yanjie Liang, Tianyi Wang, Qi Zhang, Yingjie Zhu, Jiasheng Si*. ALSA: Context-Sensitive Prompt Privacy Preservation in Large Language Models. Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD 2025**) [C]. Toronto, Canada, 2025: 2042-2053. (**CCF A**) [[code](https://github.com/dashcoding213-jpg/ALSA-Context-Sensitive-Prompt-Privacy-Preservation-in-Large-Language-Models)]
-5. Xiaoyu Li, Yitian Zhang, Guodong Long, Yupeng Hu, Wenpeng Lu, Meng Chen, Chengqi Zhang, Yongshun Gong*. Adaptive Traffic Forecasting on Daily Basis: A Spatio-Temporal Context Learning Approach [J]. IEEE Transactions on Knowledge & Data Engineering. 2025, (01): 1-14. (**CCF A**, 中科院1区, JCR Q1)
+5. Xiaoyu Li, Yitian Zhang, Guodong Long, Yupeng Hu, Wenpeng Lu, Meng Chen, Chengqi Zhang, Yongshun Gong*. Adaptive Traffic Forecasting on Daily Basis: A Spatio-Temporal Context Learning Approach [J]. **IEEE Transactions on Knowledge & Data Engineering**. 2025, (01): 1-14. (**CCF A**, 中科院1区, JCR Q1)
 6. Peng Wang, Wenpeng Lu, Chunlin Lu, Ruoxi Zhou, Min Li, Libo Qin*. Large Language Model for Medical Images: A Survey of Taxonomy, Systematic Review, and Future Trends [J]. Big Data Mining and Analytics. 2025, 8(2): 496-517. (**CCF T1**, 中科院1区, JCR Q1)
 7. Xu Zhang, Zexu Lin, Xiaoyu Hu, Jianlei Wang, Wenpeng Lu, DeYu Zhou*. SECON: Maintaining semantic consistency in data augmentation for code search [J]. **ACM Transactions on Information Systems**. 2025, 43(2): 1-26. (**CCF A**, JCR Q1) [[code](https://github.com/zhangxu90s/SECON)]
 8. Qian Zhang, Shoujin Wang, Longbing Cao, Defu Lian, Haibo Zhang, Wenpeng Lu*. Semantic Relation Guided Dual-view Contrastive Learning for Session-based Recommendations [J]. **ACM Transactions on Information Systems**. 2025, 43(6): 1-36. (**CCF A**, JCR Q1) [[code](https://github.com/Nishikata97/SCL-SR)]
 9. Sibo Wei, Xueping Peng, Yifei Wang, Tao Shen, Jiasheng Si, Weiyu Zhang, Fa Zhu, Athanasios V. Vasilakos, Wenpeng Lu*, Xiaoming Wu, Yinglong Wang*. Biancang: a traditional chinese medicine large language model [J]. **IEEE Journal of Biomedical and Health Informatics**. 2025, 1-12. (**中科院1区**, JCR Q1) [[code](https://github.com/QLU-NLP/BianCang)]
+10. Ke Xiao, Ping Qiu, Dun Lan, Xiangjun Dong*, Lei Guo, Yuhai Zhao, Yongshun Gong, Long Zhao. HU-RNSP: Efficiently mining high-utility repeated negative sequential patterns [J]. **Information Processing & Management**. 2026, 63(2): 104402（**中科院1区**, JCR Q1）[[code](https://github.com/qluxk/looseHurnsp/tree/master)]
+11. Jie Li, Dun Lan, Yongshun Gong, Long Zhao, Wenpeng Lu, Yuhai Zhao, Xiangjun Dong,  Xiaoming Wu*. Missing Traffic Data Imputation with a Conditional Diffusion Framework [J]. **Expert Systems With Applications**. (**中科院1区**, JCR Q1) [[code](https://github.com/Dun2323/VDM.git)]
+12. Dun Lan, Chuanhou Sun, Xiangjun Dong*, Ping Qiu, YongShun Gong, Xinwang Liu, Philippe Fournier-Viger, Chengqi Zhang. TK-RNSP: Efficient Top-K Repetitive Negative Sequential Pattern mining [J]. **Information Processing & Management**, 2025, 62(3): 104077.（**中科院1区**, JCR Q1）[[code](https://github.com/LanDun8/Top-k-RNSP-Mining)]
 
 ### CCF B/中科院2区论文7篇:
 1. Ruifan Zuo, Chaoqun Zheng*, Fengling Li, Lei Zhu, Zheng Zhang. Privacy-Enhanced Prototype-based Federated Cross-modal Hashing for Cross-modal Retrieval [J]. **ACM Transactions on Multimedia Computing, Communications and Applications**, 2024, 20(9): 1-19. (**CCF B**, 中科院3区, JCR Q1) [[code](https://github.com/vindahi/PEPFCH)]
@@ -23,11 +26,12 @@
 6. Xinpeng Liu, Bing Xu*, Muyun Yang*, Hailong Cao, Conghui Zhu, Tiejun Zhao, Wenpeng Lu. A Chain-of-Task Framework for Instruction Tuning of LLMs Based on Chinese Grammatical Error Correction. Proceedings of the 31st International Conference on Computational Linguistics (**COLING 2025**) [C]. Abu Dhabi, United Arab Emirates, 2025: 8623-8639. (**CCF B**) [[code](https://github.com/lxp991108/CoCGEC)]
 7. Zhenpeng Liang, Hongjiao Guan, Wenpeng Lu, Xueping Peng, Bing Xu, Muyun Yang. HiRes: Hierarchical Feature Optimization and Rescorer for Automatic ICD Coding. Proceedings of the 50th IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2025**) [C]. Hyderabad, India, 2025: 1-5.(**CCF B**)[[code](https://github.com/GdxQ888/HIRES)]
     
-### CCF C/中科院3区论文4篇:
+### CCF C/中科院3区论文5篇:
 1. Rui Wang, Yonghe Chen, Weiyu Zhang*, Jiasheng Si，Hongjiao Guan，Xueping Peng, and Wenpeng Lu. MedConMA: A Confidence-Driven Multi-Agent Framework for Medical Q&A. Proceedings of the 29th Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD 2025**) [C]. Sydney, Australia, 2025: 421-433. (**CCF C**) [[code](https://github.com/w1031343245/MedConMA/tree/master)]
 2. Yong Shang, Weiyu Zhang*, Huiting Li, Yang Liu, Wenpeng Lu. A Novel Framework for Multi-hop Reasoning via Alternate Entity and Sequence Generation. Proceedings of the 29th Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD 2025**) [C]. Sydney, Australia, 2025: 456-467. (**CCF C**) [[code](https://github.com/SANJINPANG/AESG-multihop-reasoning.git)]
 3. Sibo Wei, Xueping Peng, Yan Jiang, Zhao Li, Yan Liu, Zhiqiang Wang, Wenpeng Lu*. Improving Medical Question Summarization through Re-ranking. Proceedings of the 2025 International Joint Conference on Neural Network (**IJCNN 2025**) [C]. Rome, Italy, 2025: 1-8. (**CCF C**) [[code](https://github.com/yrbobo/MQS-Reranker)]
 4. Guoyu Ma, Xiaoqiang Ren, Yan Jiang*, Hongjiao Guan, Bing Xu. From Feature Alignment to Multimodal Fusion: A Two-Stage Primary Modality-Guided Approach for MSA. Proceedings of the 2025 ACM Multimedia Asia (**MMAsia 2025**) [C].Kuala Lumpur, Malaysia. (**CCF C**) (accepted) [[code](https://github.com/Kaisa777/TSPMG)]
+5. Zhihao Zhang, Long Zhao*, Dun Lan, Yuyao Wang, Linfeng Jiang, Xiangjun Dong*. Multi-scale based Cross-modal Semantic Alignment Network for Radiology Report Generation. Proceedings of the 2025 IEEE International Conference on Systems, Man, and Cybernetics (**SMC 2025**) [C]. Vienna, Austria, 2024, 28(7): 4145-4156. (**CCF C**) (accepted)[[code](https://github.com/siuuu7u/MCSANet)]
 
 
 ## 2024 Publications
