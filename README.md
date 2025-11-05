@@ -16,6 +16,8 @@
 10. Ke Xiao, Ping Qiu, Dun Lan, Xiangjun Dong*, Lei Guo, Yuhai Zhao, Yongshun Gong, Long Zhao. HU-RNSP: Efficiently mining high-utility repeated negative sequential patterns [J]. **Information Processing & Management**. 2026, 63(2): 104402. （**中科院1区**, JCR Q1）[[code](https://github.com/qluxk/looseHurnsp/tree/master)]
 11. Jie Li, Dun Lan, Yongshun Gong, Long Zhao, Wenpeng Lu, Yuhai Zhao, Xiangjun Dong,  Xiaoming Wu*. Missing Traffic Data Imputation with a Conditional Diffusion Framework [J]. **Expert Systems With Applications**. 2026, 296(C): 129140. (**中科院1区**, JCR Q1) [[code](https://github.com/Dun2323/VDM.git)]
 12. Dun Lan, Chuanhou Sun, Xiangjun Dong*, Ping Qiu, YongShun Gong, Xinwang Liu, Philippe Fournier-Viger, Chengqi Zhang. TK-RNSP: Efficient Top-K Repetitive Negative Sequential Pattern mining [J]. **Information Processing & Management**, 2025, 62(3): 104077. (**中科院1区**, JCR Q1) [[code](https://github.com/LanDun8/Top-k-RNSP-Mining)]
+13. Jiasheng Si, Haiyang Zhu, Yibo Zhao, Weiyu Zhang, Tianyi Wang, Wenpeng Lu, Deyu Zhou*. Scene Generalization for Biomedical Fact Verification via Hierarchical Mixture of Experts [J]. Information Sciences, 2025: 122527. (**中科院1区**, JCR Q1)
+
 
 ### CCF B/中科院2区论文7篇:
 1. Ruifan Zuo, Chaoqun Zheng*, Fengling Li, Lei Zhu, Zheng Zhang. Privacy-Enhanced Prototype-based Federated Cross-modal Hashing for Cross-modal Retrieval [J]. **ACM Transactions on Multimedia Computing, Communications and Applications**, 2024, 20(9): 1-19. (**CCF B**, JCR Q1) [[code](https://github.com/vindahi/PEPFCH)]
