@@ -3,7 +3,7 @@
 ## 2025 Publications
 **2025年已发表/录用论文目前共24篇，其中：CCF A/中科院1区论文12篇：CCF B/中科院2区论文7篇；CCF C/中科院3区论文5篇。**
 
-### CCF A/中科院1区论文12篇：
+### CCF A/中科院1区论文13篇：
 1. Yishuo Li, Qi Zhang, Wenpeng Lu*, Xueping Peng, Weiyu Zhang, Jiasheng Si, Yongshun Gong, Liang Hu. Time-aware Medication Recommendation via Intervention of Dynamic Treatment Regimes. Proceedings of the ACM Web Conference (**WWW 2025**) [C]. Sydney, Australia, 2025: 5161-5172. (**CCF A**) [[code](https://github.com/liyifo/MR-DTR)]
 2. Ruifan Zuo, Chaoqun Zheng*, Lei Zhu, Wenpeng Lu, Yuanyuan Xiang, Zhao Li, Xiaofeng Qu. Learning Together Securely: Prototype-based Federated Multi-modal Hashing for Safe and Efficient Multi-modal Retrieval, Proceedings of the 39th AAAI Conference on Artificial Intelligence (**AAAI 2025**) [C]. Philadelphia, Pennsylvania, USA, 2025, 39(21): 23108-23116. (**CCF A**) [[code](https://github.com/vindahi/PMFH)]
 3. Ruifan Zuo, Chaoqun Zheng*, Lei Zhu, Wenpeng Lu, Jiasheng Si, Weiyu Zhang. Compact-yet-Separate: Proto-centric Multi-modal Hashing with Pronounced Category Differences for Multi-modal Retrieval [J]. **IEEE Transactions on Multimedia**. 2025, 1-14. (**中科院1区**, JCR Q1) [[code](https://github.com/vindahi/PMH-PCD)]
@@ -19,7 +19,7 @@
 13. Jiasheng Si, Haiyang Zhu, Yibo Zhao, Weiyu Zhang, Tianyi Wang, Wenpeng Lu, Deyu Zhou*. Scene Generalization for Biomedical Fact Verification via Hierarchical Mixture of Experts [J]. **Information Sciences**, 2025: 122527. (**中科院1区**, JCR Q1)
 
 
-### CCF B/中科院2区论文7篇:
+### CCF B/中科院2区论文8篇:
 1. Ruifan Zuo, Chaoqun Zheng*, Fengling Li, Lei Zhu, Zheng Zhang. Privacy-Enhanced Prototype-based Federated Cross-modal Hashing for Cross-modal Retrieval [J]. **ACM Transactions on Multimedia Computing, Communications and Applications**, 2024, 20(9): 1-19. (**CCF B**, JCR Q1) [[code](https://github.com/vindahi/PEPFCH)]
 2. Luyang Zhang, Shuaimin Li, Yishuo Li, Kunpeng Zhang, Kaiyuan Zhang, Cong Wang, Wenpeng Lu*. RoDEval: A Robust Word Sense Disambiguation Evaluation Framework for Large Language Models [C]. Proceedings of the 30th Empirical Methods in Natural Language Processing (**EMNLP 2025**) [C]. Suzhou, China, 2025. (**CCF B**) (accepted) [[code](https://github.com/DayDream405/RoDEval)]
 3. Xueguan Zhao, Wenpeng Lu*, Chaoqun Zheng, Weiyu Zhang, Jiasheng Si*, Deyu Zhou. Plan Dynamically, Express Rhetorically: A Debate-Driven Rhetorical Framework for Argumentative Writing. Proceedings of the 30th Empirical Methods in Natural Language Processing (**EMNLP 2025**) [C]. Suzhou, China, 2025. (**CCF B**) (accepted) [[code](https://github.com/zxg-x/DARE)]
