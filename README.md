@@ -1,7 +1,7 @@
 # Research Group's Annual Work
 
 ## 2025 Publications
-**2025年已发表/录用论文目前共24篇，其中：CCF A/中科院1区论文12篇：CCF B/中科院2区论文7篇；CCF C/中科院3区论文5篇。**
+**2025年已发表/录用论文目前共26篇，其中：CCF A/中科院1区论文13篇：CCF B/中科院2区论文8篇；CCF C/中科院3区论文5篇。**
 
 ### CCF A/中科院1区论文13篇：
 1. Yishuo Li, Qi Zhang, Wenpeng Lu*, Xueping Peng, Weiyu Zhang, Jiasheng Si, Yongshun Gong, Liang Hu. Time-aware Medication Recommendation via Intervention of Dynamic Treatment Regimes. Proceedings of the ACM Web Conference (**WWW 2025**) [C]. Sydney, Australia, 2025: 5161-5172. (**CCF A**) [[code](https://github.com/liyifo/MR-DTR)]
@@ -27,7 +27,7 @@
 5. Libo Qin, Fuxuan Wei, Qiguang Chen, Jingxuan Zhou, Shijue Huang, Jiasheng Si, Wenpeng Lu, Wanxiang Che*. Croprompt: Cross-task interactive prompting for zero-shot spoken language understanding. Proceedings of the 50th IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2025**) [C]. Hyderabad, India, 2025: 1-5. (**CCF B**) [[code](https://github.com/awake020/CroPrompt)]
 6. Xinpeng Liu, Bing Xu*, Muyun Yang*, Hailong Cao, Conghui Zhu, Tiejun Zhao, Wenpeng Lu. A Chain-of-Task Framework for Instruction Tuning of LLMs Based on Chinese Grammatical Error Correction. Proceedings of the 31st International Conference on Computational Linguistics (**COLING 2025**) [C]. Abu Dhabi, United Arab Emirates, 2025: 8623-8639. (**CCF B**) [[code](https://github.com/lxp991108/CoCGEC)]
 7. Zhenpeng Liang, Hongjiao Guan, Wenpeng Lu, Xueping Peng, Bing Xu, Muyun Yang. HiRes: Hierarchical Feature Optimization and Rescorer for Automatic ICD Coding. Proceedings of the 50th IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2025**) [C]. Hyderabad, India, 2025: 1-5.(**CCF B**)[[code](https://github.com/GdxQ888/HIRES)]
-8. Jiasheng Si, Yingjie Zhu, Rui Wang, Wenpeng Lu, Yulan He*, Deyu Zhou*. Topic-enhanced argument mining via mutual learning[J]. **Frontiers of Computer Science**, 2026, 20(1): 1-12. (**中科院二区**)
+8. Jiasheng Si, Yingjie Zhu, Rui Wang, Wenpeng Lu, Yulan He*, Deyu Zhou*. Topic-enhanced argument mining via mutual learning [J]. **Frontiers of Computer Science**, 2026, 20(1): 1-12. (**中科院二区**)
 
 ### CCF C/中科院3区论文5篇:
 1. Rui Wang, Yonghe Chen, Weiyu Zhang*, Jiasheng Si，Hongjiao Guan，Xueping Peng, and Wenpeng Lu. MedConMA: A Confidence-Driven Multi-Agent Framework for Medical Q&A. Proceedings of the 29th Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD 2025**) [C]. Sydney, Australia, 2025: 421-433. (**CCF C**) [[code](https://github.com/w1031343245/MedConMA/tree/master)]
