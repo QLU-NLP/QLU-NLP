@@ -1,5 +1,14 @@
 # Research Group's Annual Work
 
+## 2026 Publications
+**2026年已发表/录用论文目前共1篇，其中：CCF A/中科院1区论文0篇：CCF B/中科院2区论文1篇；CCF C/中科院3区论文0篇。**
+### CCF A/中科院1区论文0篇：
+
+### CCF B/中科院2区论文1篇：
+1. Jiasheng Si, Yingjie Zhu, Rui Wang, Wenpeng Lu, Yulan He*, Deyu Zhou*. Topic-enhanced argument mining via mutual learning [J]. **Frontiers of Computer Science**, 2026, 20(1): 1-12. (**中科院二区**, CCF-B)
+
+### CCF C/中科院3区论文0篇：
+
 ## 2025 Publications
 **2025年已发表/录用论文目前共26篇，其中：CCF A/中科院1区论文13篇：CCF B/中科院2区论文8篇；CCF C/中科院3区论文5篇。**
 
@@ -16,8 +25,6 @@
 10. Ke Xiao, Ping Qiu, Dun Lan, Xiangjun Dong*, Lei Guo, Yuhai Zhao, Yongshun Gong, Long Zhao. HU-RNSP: Efficiently mining high-utility repeated negative sequential patterns [J]. **Information Processing & Management**. 2026, 63(2): 104402. （**中科院1区**, JCR Q1）[[code](https://github.com/qluxk/looseHurnsp/tree/master)]
 11. Jie Li, Dun Lan, Yongshun Gong, Long Zhao, Wenpeng Lu, Yuhai Zhao, Xiangjun Dong,  Xiaoming Wu*. Missing Traffic Data Imputation with a Conditional Diffusion Framework [J]. **Expert Systems With Applications**. 2026, 296(C): 129140. (**中科院1区**, JCR Q1) [[code](https://github.com/Dun2323/VDM.git)]
 12. Dun Lan, Chuanhou Sun, Xiangjun Dong*, Ping Qiu, YongShun Gong, Xinwang Liu, Philippe Fournier-Viger, Chengqi Zhang. TK-RNSP: Efficient Top-K Repetitive Negative Sequential Pattern mining [J]. **Information Processing & Management**, 2025, 62(3): 104077. (**中科院1区**, JCR Q1) [[code](https://github.com/LanDun8/Top-k-RNSP-Mining)]
-13. Jiasheng Si, Haiyang Zhu, Yibo Zhao, Weiyu Zhang, Tianyi Wang, Wenpeng Lu, Deyu Zhou*. Scene Generalization for Biomedical Fact Verification via Hierarchical Mixture of Experts [J]. **Information Sciences**, 2025: 122527. (**中科院1区**, JCR Q1)
-
 
 ### CCF B/中科院2区论文8篇:
 1. Ruifan Zuo, Chaoqun Zheng*, Fengling Li, Lei Zhu, Zheng Zhang. Privacy-Enhanced Prototype-based Federated Cross-modal Hashing for Cross-modal Retrieval [J]. **ACM Transactions on Multimedia Computing, Communications and Applications**, 2024, 20(9): 1-19. (**CCF B**, JCR Q1) [[code](https://github.com/vindahi/PEPFCH)]
@@ -27,7 +34,8 @@
 5. Libo Qin, Fuxuan Wei, Qiguang Chen, Jingxuan Zhou, Shijue Huang, Jiasheng Si, Wenpeng Lu, Wanxiang Che*. Croprompt: Cross-task interactive prompting for zero-shot spoken language understanding. Proceedings of the 50th IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2025**) [C]. Hyderabad, India, 2025: 1-5. (**CCF B**) [[code](https://github.com/awake020/CroPrompt)]
 6. Xinpeng Liu, Bing Xu*, Muyun Yang*, Hailong Cao, Conghui Zhu, Tiejun Zhao, Wenpeng Lu. A Chain-of-Task Framework for Instruction Tuning of LLMs Based on Chinese Grammatical Error Correction. Proceedings of the 31st International Conference on Computational Linguistics (**COLING 2025**) [C]. Abu Dhabi, United Arab Emirates, 2025: 8623-8639. (**CCF B**) [[code](https://github.com/lxp991108/CoCGEC)]
 7. Zhenpeng Liang, Hongjiao Guan, Wenpeng Lu, Xueping Peng, Bing Xu, Muyun Yang. HiRes: Hierarchical Feature Optimization and Rescorer for Automatic ICD Coding. Proceedings of the 50th IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2025**) [C]. Hyderabad, India, 2025: 1-5.(**CCF B**)[[code](https://github.com/GdxQ888/HIRES)]
-8. Jiasheng Si, Yingjie Zhu, Rui Wang, Wenpeng Lu, Yulan He*, Deyu Zhou*. Topic-enhanced argument mining via mutual learning [J]. **Frontiers of Computer Science**, 2026, 20(1): 1-12. (**中科院二区**)
+8. Jiasheng Si, Haiyang Zhu, Yibo Zhao, Weiyu Zhang, Tianyi Wang, Wenpeng Lu, Deyu Zhou*. Scene Generalization for Biomedical Fact Verification via Hierarchical Mixture of Experts [J]. **Information Sciences**, 2025: 122527. (**中科院2区**)
+
 
 ### CCF C/中科院3区论文5篇:
 1. Rui Wang, Yonghe Chen, Weiyu Zhang*, Jiasheng Si，Hongjiao Guan，Xueping Peng, and Wenpeng Lu. MedConMA: A Confidence-Driven Multi-Agent Framework for Medical Q&A. Proceedings of the 29th Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD 2025**) [C]. Sydney, Australia, 2025: 421-433. (**CCF C**) [[code](https://github.com/w1031343245/MedConMA/tree/master)]
