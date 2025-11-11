@@ -35,7 +35,7 @@
 6. Xinpeng Liu, Bing Xu*, Muyun Yang*, Hailong Cao, Conghui Zhu, Tiejun Zhao, Wenpeng Lu. A Chain-of-Task Framework for Instruction Tuning of LLMs Based on Chinese Grammatical Error Correction. Proceedings of the 31st International Conference on Computational Linguistics (**COLING 2025**) [C]. Abu Dhabi, United Arab Emirates, 2025: 8623-8639. (**CCF B**) [[code](https://github.com/lxp991108/CoCGEC)]
 7. Zhenpeng Liang, Hongjiao Guan, Wenpeng Lu, Xueping Peng, Bing Xu, Muyun Yang. HiRes: Hierarchical Feature Optimization and Rescorer for Automatic ICD Coding. Proceedings of the 50th IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2025**) [C]. Hyderabad, India, 2025: 1-5.(**CCF B**)[[code](https://github.com/GdxQ888/HIRES)]
 8. Jiasheng Si, Haiyang Zhu, Yibo Zhao, Weiyu Zhang, Tianyi Wang, Wenpeng Lu, Deyu Zhou*. Scene Generalization for Biomedical Fact Verification via Hierarchical Mixture of Experts [J]. **Information Sciences**, 2025: 122527. (**中科院2区**)
-
+9. Zhenpeng Liang, Hongjiao Guan*, Weiyu Zhang*, Ying Lian, Bing Xu, Wenpeng Lu. AiCoder: Exploring Automated ICD Coding on Chinese EMRs with A Multi-Agent Framework. Proceedings of the 2025 IEEE International Conference on Bioinformatics and Biomedicine (**BIBM 2025**) [C]. (**CCF B**)[[code](https://github.com/GdxQ888/aicoder)]
 
 ### CCF C/中科院3区论文5篇:
 1. Rui Wang, Yonghe Chen, Weiyu Zhang*, Jiasheng Si，Hongjiao Guan，Xueping Peng, and Wenpeng Lu. MedConMA: A Confidence-Driven Multi-Agent Framework for Medical Q&A. Proceedings of the 29th Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD 2025**) [C]. Sydney, Australia, 2025: 421-433. (**CCF C**) [[code](https://github.com/w1031343245/MedConMA/tree/master)]
@@ -70,6 +70,7 @@
 18. Yang Liu, Weiyu Zhang*, Jiasheng Si, Zhao Li, Xueping Peng, Wenpeng Lu. Generating Personalized Imputations for Patient Health Status Prediction in Electronic Health Records. Proceedings of the 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024) [C]. Lisbon, Portugal, 2024:1048-1053.(**CCF B**) [[code](https://github.com/cling6666/SPIME)]
 19. Rui Yu,  Yongshun Gong,  Shoujin Wang,  Jiasheng Si,  Xueping Peng,  Bing Xu,  Wenpeng Lu*. Time-Series Representation Learning via Dual Reference Contrasting. Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (**CIKM2024**) [C]. 2024: 3042-3051. (**CCF B**)
 20. Zhang Xu, CaoMeng Xin, GongYong Shun, Xiaoming Wu*, Xiangjun Dong*, Ying Guo, Long Zhao, Chengqi Zhang. Enhancing urban flow prediction via mutual reinforcement with multi-scale regional information [J]. **Neural Networks**, 2025, 182: 106900. (**CCF B**) [[code](https://github.com/CodeZx6/Data-of-MR-UPF)]
+21. Rui Yu, Yongshun Gong, Shoujin Wang, Jiasheng Si, Xueping Peng, Bing Xu and Wenpeng Lu*. Time-Series Representation Learning via Dual Reference Contrasting. Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (**CIKM 2024**) [C]. Boise, USA, 2024: 3042-3051. (**CCF B**)
 
 
 ## 2023 Publications
