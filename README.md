@@ -10,7 +10,7 @@
 ### CCF C/中科院3区论文0篇：
 
 ## 2025 Publications
-**2025年已发表/录用论文目前共25篇，其中：CCF A/中科院1区论文12篇：CCF B/中科院2区论文8篇；CCF C/中科院3区论文5篇。**
+**2025年已发表/录用论文目前共25篇，其中：CCF A/中科院1区论文12篇；CCF B/中科院2区论文8篇；CCF C/中科院3区论文5篇。**
 
 ### CCF A/中科院1区论文12篇：
 1. Yishuo Li, Qi Zhang, Wenpeng Lu*, Xueping Peng, Weiyu Zhang, Jiasheng Si, Yongshun Gong, Liang Hu. Time-aware Medication Recommendation via Intervention of Dynamic Treatment Regimes. Proceedings of the ACM Web Conference (**WWW 2025**) [C]. Sydney, Australia, 2025: 5161-5172. (**CCF A**) [[code](https://github.com/liyifo/MR-DTR)]
