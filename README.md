@@ -10,9 +10,9 @@
 ### CCF C/中科院3区论文0篇：
 
 ## 2025 Publications
-**2025年已发表/录用论文目前共27篇，其中：CCF A/中科院1区论文12篇；CCF B/中科院2区论文10篇；CCF C/中科院3区论文5篇。**
+**2025年已发表/录用论文目前共28篇，其中：CCF A/中科院1区论文13篇；CCF B/中科院2区论文10篇；CCF C/中科院3区论文5篇。**
 
-### CCF A/中科院1区论文12篇：
+### CCF A/中科院1区论文13篇：
 1. Yishuo Li, Qi Zhang, Wenpeng Lu*, Xueping Peng, Weiyu Zhang, Jiasheng Si, Yongshun Gong, Liang Hu. Time-aware Medication Recommendation via Intervention of Dynamic Treatment Regimes. Proceedings of the ACM Web Conference (**WWW 2025**) [C]. Sydney, Australia, 2025: 5161-5172. (**CCF A**) [[code](https://github.com/liyifo/MR-DTR)]
 2. Ruifan Zuo, Chaoqun Zheng*, Lei Zhu, Wenpeng Lu, Yuanyuan Xiang, Zhao Li, Xiaofeng Qu. Learning Together Securely: Prototype-based Federated Multi-modal Hashing for Safe and Efficient Multi-modal Retrieval, Proceedings of the 39th AAAI Conference on Artificial Intelligence (**AAAI 2025**) [C]. Philadelphia, Pennsylvania, USA, 2025, 39(21): 23108-23116. (**CCF A**) [[code](https://github.com/vindahi/PMFH)]
 3. Ruifan Zuo, Chaoqun Zheng*, Lei Zhu, Wenpeng Lu, Jiasheng Si, Weiyu Zhang. Compact-yet-Separate: Proto-centric Multi-modal Hashing with Pronounced Category Differences for Multi-modal Retrieval [J]. **IEEE Transactions on Multimedia**. 2025, 1-14. (**中科院1区**, JCR Q1) [[code](https://github.com/vindahi/PMH-PCD)]
@@ -25,6 +25,7 @@
 10. Ke Xiao, Ping Qiu, Dun Lan, Xiangjun Dong*, Lei Guo, Yuhai Zhao, Yongshun Gong, Long Zhao. HU-RNSP: Efficiently mining high-utility repeated negative sequential patterns [J]. **Information Processing & Management**. 2026, 63(2): 104402. （**中科院1区**, JCR Q1）[[code](https://github.com/qluxk/looseHurnsp/tree/master)]
 11. Jie Li, Dun Lan, Yongshun Gong, Long Zhao, Wenpeng Lu, Yuhai Zhao, Xiangjun Dong,  Xiaoming Wu*. Missing Traffic Data Imputation with a Conditional Diffusion Framework [J]. **Expert Systems With Applications**. 2026, 296(C): 129140. (**中科院1区**, JCR Q1) [[code](https://github.com/Dun2323/VDM.git)]
 12. Dun Lan, Chuanhou Sun, Xiangjun Dong*, Ping Qiu, YongShun Gong, Xinwang Liu, Philippe Fournier-Viger, Chengqi Zhang. TK-RNSP: Efficient Top-K Repetitive Negative Sequential Pattern mining [J]. **Information Processing & Management**, 2025, 62(3): 104077. (**中科院1区**, JCR Q1) [[code](https://github.com/LanDun8/Top-k-RNSP-Mining)]
+13. Yongheng Zhang, Xu Liu, Ruoxi Zhou, Qiguang Chen, Hao Fei, Wenpeng Lu, Libo Qin*. CCHall: A Novel Benchmark for Joint Cross-Lingual and Cross-Modal Hallucinations Detection in Large Language Models. In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (**ACL 2025**) [C]. Vienna, Austria, 2025: 30728–30749. (**CCF A**)
 
 ### CCF B/中科院2区论文10篇:
 1. Ruifan Zuo, Chaoqun Zheng*, Fengling Li, Lei Zhu, Zheng Zhang. Privacy-Enhanced Prototype-based Federated Cross-modal Hashing for Cross-modal Retrieval [J]. **ACM Transactions on Multimedia Computing, Communications and Applications**, 2024, 20(9): 1-19. (**CCF B**, JCR Q1) [[code](https://github.com/vindahi/PEPFCH)]
