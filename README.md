@@ -10,7 +10,7 @@
 ### CCF C/中科院3区论文0篇：
 
 ## 2025 Publications
-**2025年已发表/录用论文目前共25篇，其中：CCF A/中科院1区论文12篇；CCF B/中科院2区论文8篇；CCF C/中科院3区论文5篇。**
+**2025年已发表/录用论文目前共27篇，其中：CCF A/中科院1区论文12篇；CCF B/中科院2区论文10篇；CCF C/中科院3区论文5篇。**
 
 ### CCF A/中科院1区论文12篇：
 1. Yishuo Li, Qi Zhang, Wenpeng Lu*, Xueping Peng, Weiyu Zhang, Jiasheng Si, Yongshun Gong, Liang Hu. Time-aware Medication Recommendation via Intervention of Dynamic Treatment Regimes. Proceedings of the ACM Web Conference (**WWW 2025**) [C]. Sydney, Australia, 2025: 5161-5172. (**CCF A**) [[code](https://github.com/liyifo/MR-DTR)]
@@ -26,7 +26,7 @@
 11. Jie Li, Dun Lan, Yongshun Gong, Long Zhao, Wenpeng Lu, Yuhai Zhao, Xiangjun Dong,  Xiaoming Wu*. Missing Traffic Data Imputation with a Conditional Diffusion Framework [J]. **Expert Systems With Applications**. 2026, 296(C): 129140. (**中科院1区**, JCR Q1) [[code](https://github.com/Dun2323/VDM.git)]
 12. Dun Lan, Chuanhou Sun, Xiangjun Dong*, Ping Qiu, YongShun Gong, Xinwang Liu, Philippe Fournier-Viger, Chengqi Zhang. TK-RNSP: Efficient Top-K Repetitive Negative Sequential Pattern mining [J]. **Information Processing & Management**, 2025, 62(3): 104077. (**中科院1区**, JCR Q1) [[code](https://github.com/LanDun8/Top-k-RNSP-Mining)]
 
-### CCF B/中科院2区论文8篇:
+### CCF B/中科院2区论文10篇:
 1. Ruifan Zuo, Chaoqun Zheng*, Fengling Li, Lei Zhu, Zheng Zhang. Privacy-Enhanced Prototype-based Federated Cross-modal Hashing for Cross-modal Retrieval [J]. **ACM Transactions on Multimedia Computing, Communications and Applications**, 2024, 20(9): 1-19. (**CCF B**, JCR Q1) [[code](https://github.com/vindahi/PEPFCH)]
 2. Luyang Zhang, Shuaimin Li, Yishuo Li, Kunpeng Zhang, Kaiyuan Zhang, Cong Wang, Wenpeng Lu*. RoDEval: A Robust Word Sense Disambiguation Evaluation Framework for Large Language Models [C]. Proceedings of the 30th Empirical Methods in Natural Language Processing (**EMNLP 2025**) [C]. Suzhou, China, 2025: 17095-17126. (**CCF B**) [[code](https://github.com/DayDream405/RoDEval)]
 3. Xueguan Zhao, Wenpeng Lu*, Chaoqun Zheng, Weiyu Zhang, Jiasheng Si*, Deyu Zhou. Plan Dynamically, Express Rhetorically: A Debate-Driven Rhetorical Framework for Argumentative Writing. Proceedings of the 30th Empirical Methods in Natural Language Processing (**EMNLP 2025**) [C]. Suzhou, China, 2025: 9562-9584. (**CCF B**) [[code](https://github.com/zxg-x/DARE)]
@@ -36,6 +36,7 @@
 7. Zhenpeng Liang, Hongjiao Guan, Wenpeng Lu, Xueping Peng, Bing Xu, Muyun Yang. HiRes: Hierarchical Feature Optimization and Rescorer for Automatic ICD Coding. Proceedings of the 50th IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2025**) [C]. Hyderabad, India, 2025: 1-5.(**CCF B**)[[code](https://github.com/GdxQ888/HIRES)]
 8. Jiasheng Si, Haiyang Zhu, Yibo Zhao, Weiyu Zhang, Tianyi Wang, Wenpeng Lu, Deyu Zhou*. Scene Generalization for Biomedical Fact Verification via Hierarchical Mixture of Experts [J]. **Information Sciences**, 2025: 122527. (**中科院2区**)
 9. Zhenpeng Liang, Hongjiao Guan*, Weiyu Zhang*, Ying Lian, Bing Xu, Wenpeng Lu. AiCoder: Exploring Automated ICD Coding on Chinese EMRs with A Multi-Agent Framework. Proceedings of the 2025 IEEE International Conference on Bioinformatics and Biomedicine (**BIBM 2025**) [C]. Wuhan, China, 2025. (**CCF B**) (accepted) [[code](https://github.com/GdxQ888/aicoder)]
+10. Chunlin Lu, Yongheng Zhang, Peng Wang, Wenpeng Lu and Libo Qin*, "MdCoT: Medical Diagnosis Chain-of-Thought with Self-Diagnostic Refinement for Alzheimer’s Disease". Proceedings of the 2025 IEEE International Conference on Multimedia and Expo (**ICME 2025**) [C]. Nantes, France, 2025: 1-6. (**CCF B**)
 
 ### CCF C/中科院3区论文5篇:
 1. Rui Wang, Yonghe Chen, Weiyu Zhang*, Jiasheng Si，Hongjiao Guan，Xueping Peng, and Wenpeng Lu. MedConMA: A Confidence-Driven Multi-Agent Framework for Medical Q&A. Proceedings of the 29th Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD 2025**) [C]. Sydney, Australia, 2025: 421-433. (**CCF C**) [[code](https://github.com/w1031343245/MedConMA/tree/master)]
