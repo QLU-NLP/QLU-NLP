@@ -9,7 +9,7 @@
 
 ### CCF C/中科院3区论文0篇：
 
-### 2026年已授权专利0项。
+### 2026年已授权专利0项:
 
 ## 2025 Publications & Patents
 ### 2025年已发表/录用论文目前共29篇，其中：CCF A/中科院1区论文14篇；CCF B/中科院2区论文10篇；CCF C/中科院3区论文5篇。
@@ -48,7 +48,7 @@
 4. Guoyu Ma, Xiaoqiang Ren, Yan Jiang*, Hongjiao Guan, Bing Xu. From Feature Alignment to Multimodal Fusion: A Two-Stage Primary Modality-Guided Approach for MSA. Proceedings of the 2025 ACM Multimedia Asia (**MMAsia 2025**) [C].Kuala Lumpur, Malaysia. (**CCF C**) (accepted) [[code](https://github.com/Kaisa777/TSPMG)]
 5. Zhihao Zhang, Long Zhao*, Dun Lan, Yuyao Wang, Linfeng Jiang, Xiangjun Dong*. Multi-scale based Cross-modal Semantic Alignment Network for Radiology Report Generation. Proceedings of the 2025 IEEE International Conference on Systems, Man, and Cybernetics (**SMC 2025**) [C]. Vienna, Austria, 2024, 28(7): 4145-4156. (**CCF C**) (accepted)[[code](https://github.com/siuuu7u/MCSANet)]
 
-### 2025年已授权专利20项。
+### 2025年已授权专利20项:
 1. 鹿文鹏, 付新月, 王荣耀, 张维玉, 管红娇, 赵龙. 基于显式和隐式兴趣特征的智能新闻推荐方法和系统, 2025-07-04, 中国, ZL 202310412932.6
 2. 鹿文鹏, 张鑫, 赵鹏宇, 郑超群, 张维玉, 马凤英. 面向医疗智能问答的文本语义匹配方法和装置, 2025-07-08, 中国, ZL 202210996504.8
 3. 鹿文鹏, 王荣耀, 张维玉, 郑超群, 乔新晓, 任晓强. 基于用户意图特征的智能新闻推荐方法和系统, 2025-07-18, 中国, ZL 202310412911.4
