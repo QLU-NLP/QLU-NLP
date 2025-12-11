@@ -1,6 +1,6 @@
 # Research Group's Annual Work
 
-## 2026 Publications
+## 2026 Publications & Patents
 **2026年已发表/录用论文目前共1篇，其中：CCF A/中科院1区论文0篇：CCF B/中科院2区论文1篇；CCF C/中科院3区论文0篇。**
 ### CCF A/中科院1区论文0篇：
 
@@ -8,6 +8,8 @@
 1. Jiasheng Si, Yingjie Zhu, Rui Wang, Wenpeng Lu, Yulan He*, Deyu Zhou*. Topic-enhanced argument mining via mutual learning [J]. **Frontiers of Computer Science**, 2026, 20(1): 1-12. (**中科院二区**, CCF-B)
 
 ### CCF C/中科院3区论文0篇：
+
+### 2026年已授权专利0项。
 
 ## 2025 Publications & Patents
 ### 2025年已发表/录用论文目前共29篇，其中：CCF A/中科院1区论文14篇；CCF B/中科院2区论文10篇；CCF C/中科院3区论文5篇。
