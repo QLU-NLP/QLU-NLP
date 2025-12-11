@@ -10,7 +10,7 @@
 ### CCF C/中科院3区论文0篇：
 
 ## 2025 Publications
-**2025年已授权专利20项。**
+### 2025年已授权专利20项。
 1. 鹿文鹏, 付新月, 王荣耀, 张维玉, 管红娇, 赵龙. 基于显式和隐式兴趣特征的智能新闻推荐方法和系统, 2025-07-04, 中国, ZL 202310412932.6
 2. 鹿文鹏, 张鑫, 赵鹏宇, 郑超群, 张维玉, 马凤英. 面向医疗智能问答的文本语义匹配方法和装置, 2025-07-08, 中国, ZL 202210996504.8
 3. 鹿文鹏, 王荣耀, 张维玉, 郑超群, 乔新晓, 任晓强. 基于用户意图特征的智能新闻推荐方法和系统, 2025-07-18, 中国, ZL 202310412911.4
@@ -32,7 +32,7 @@
 19. 鹿文鹏, 张鑫, 赵鹏宇, 郑超群, 张维玉, 马凤英. 面向医疗智能问答的文本语义匹配方法和装置, 2025-07-08, 中国, ZL202210996504.8
 20. 张维玉, 郭新超, 王政凯. 一种基于图神经网络的论文文本分类方法及系统, 2025-08-12, 中国, ZL202210955838.0
 
-**2025年已发表/录用论文目前共28篇，其中：CCF A/中科院1区论文13篇；CCF B/中科院2区论文10篇；CCF C/中科院3区论文5篇。**
+### 2025年已发表/录用论文目前共28篇，其中：CCF A/中科院1区论文13篇；CCF B/中科院2区论文10篇；CCF C/中科院3区论文5篇。
 
 ### CCF A/中科院1区论文13篇：
 1. Yishuo Li, Qi Zhang, Wenpeng Lu*, Xueping Peng, Weiyu Zhang, Jiasheng Si, Yongshun Gong, Liang Hu. Time-aware Medication Recommendation via Intervention of Dynamic Treatment Regimes. Proceedings of the ACM Web Conference (**WWW 2025**) [C]. Sydney, Australia, 2025: 5161-5172. (**CCF A**) [[code](https://github.com/liyifo/MR-DTR)]
