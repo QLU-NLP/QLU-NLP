@@ -28,8 +28,8 @@
 12. Yongheng Zhang, Xu Liu, Ruoxi Zhou, Qiguang Chen, Hao Fei, Wenpeng Lu, Libo Qin*. CCHall: A Novel Benchmark for Joint Cross-Lingual and Cross-Modal Hallucinations Detection in Large Language Models. Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (**ACL 2025**) [C]. Vienna, Austria, 2025: 30728–30749. (**CCF A**)
 13. Xu Zhang, Zexu Lin, Xiaoyu Hu, Jianlei Wang, Wenpeng Lu, Deyu Zhou*. SECON: Maintaining semantic consistency in data augmentation for code search [J]. **ACM Transactions on Information Systems**. 2025, 43(2): 1-26. (**CCF A**, JCR Q1) [[code](https://github.com/zhangxu90s/SECON)]
 14. Peng Wang, Wenpeng Lu, Chunlin Lu, Ruoxi Zhou, Min Li, Libo Qin*. Large Language Model for Medical Images: A Survey of Taxonomy, Systematic Review, and Future Trends [J]. Big Data Mining and Analytics. 2025, 8(2): 496-517. (**CCF T1**, 中科院1区, JCR Q1)
-15. Lingyuan Meng, Ke Liang*, Zeyu Zhu, Xinwang Liu, Wenpeng Lu. FS-KEN: Few-shot Knowledge Graph Reasoning by Adversarial Negative Enhancing[C]. Thirty-Fourth International Joint Conference on Artificial Intelligence(**IJCAI 2025**). 2025: 4597-4605.（**CCF A**）
-16. Yaowen Hu, Wenxuan Tu*, Yue Liu, Miaomiao Li, Wenpeng Lu, Zhigang Luo, Xinwang Liu, Ping Chen. Divide-Then-Rule: A Cluster-Driven Hierarchical Interpolator for Attribute-Missing Graphs[C]. Proceedings of the 33rd ACM International Conference on Multimedia(**ACM MM 2025**). New York, NY, USA, 2025: 10905-10914.(**CCF A**)
+15. Lingyuan Meng, Ke Liang*, Zeyu Zhu, Xinwang Liu, Wenpeng Lu. FS-KEN: Few-shot Knowledge Graph Reasoning by Adversarial Negative Enhancing [C]. Thirty-Fourth International Joint Conference on Artificial Intelligence(**IJCAI 2025**). 2025: 4597-4605. (**CCF A**)
+16. Yaowen Hu, Wenxuan Tu*, Yue Liu, Miaomiao Li, Wenpeng Lu, Zhigang Luo, Xinwang Liu, Ping Chen. Divide-Then-Rule: A Cluster-Driven Hierarchical Interpolator for Attribute-Missing Graphs [C]. Proceedings of the 33rd ACM International Conference on Multimedia(**ACM MM 2025**). New York, NY, USA, 2025: 10905-10914. (**CCF A**)
 
 
 ### CCF B/中科院2区论文10篇:
@@ -50,7 +50,7 @@
 3. Sibo Wei, Xueping Peng, Yan Jiang*, Zhao Li, Yan Liu, Zhiqiang Wang, Wenpeng Lu*. Improving Medical Question Summarization through Re-ranking. Proceedings of the 2025 International Joint Conference on Neural Network (**IJCNN 2025**) [C]. Rome, Italy, 2025: 1-8. (**CCF C**) [[code](https://github.com/yrbobo/MQS-Reranker)]
 4. Guoyu Ma, Xiaoqiang Ren, Yan Jiang*, Hongjiao Guan, Bing Xu. From Feature Alignment to Multimodal Fusion: A Two-Stage Primary Modality-Guided Approach for MSA. Proceedings of the 2025 ACM Multimedia Asia (**MMAsia 2025**) [C].Kuala Lumpur, Malaysia. (**CCF C**) (accepted) [[code](https://github.com/Kaisa777/TSPMG)]
 5. Zhihao Zhang, Long Zhao*, Dun Lan, Yuyao Wang, Linfeng Jiang, Xiangjun Dong*. Multi-scale based Cross-modal Semantic Alignment Network for Radiology Report Generation. Proceedings of the 2025 IEEE International Conference on Systems, Man, and Cybernetics (**SMC 2025**) [C]. Vienna, Austria, 2024, 28(7): 4145-4156. (**CCF C**) (accepted)[[code](https://github.com/siuuu7u/MCSANet)]
-6. Zhe Tao, Bing Xu*, Muyun Yang, Hongjiao Guan, Wenpeng Lu, Hailong Cao, Conghui Zhu, Tiejun Zhao. Thoughts Behind Attack: Enhancing Security Against Jailbreak Attacks Using Chain-of-Thought[C]. Natural Language Processing and Chinese Computing(**NLPCC 2025**). Singapore, 2025: 196-207.（**CCF C**）
+6. Zhe Tao, Bing Xu*, Muyun Yang, Hongjiao Guan, Wenpeng Lu, Hailong Cao, Conghui Zhu, Tiejun Zhao. Thoughts Behind Attack: Enhancing Security Against Jailbreak Attacks Using Chain-of-Thought [C]. **Natural Language Processing and Chinese Computing**. Singapore, 2025: 196-207. (**CCF C**)
 
 ### 2025年已授权专利17项:
 1. 鹿文鹏, 付新月, 王荣耀, 张维玉, 管红娇, 赵龙. 基于显式和隐式兴趣特征的智能新闻推荐方法和系统, 2025-07-04, 中国, ZL 202310412932.6
