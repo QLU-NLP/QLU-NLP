@@ -137,7 +137,7 @@
 10. Wenpeng Lu*, Pengyu Zhao, Yifeng Li, Shoujin Wang, Heyan Huang, Shumin Shi and Hao Wu. Chinese Sentence Semantic Matching Based on Multi-level Relevance Extraction and Aggregation for Intelligent Human-robot Interaction [J], Applied Soft Computing, 2022, 131: 109795. (SCI, JCR Q1, 中科院2区) [[code](https://github.com/ZQpengyu/MREA)]
 11. Lei Gong, Wenxuan Tu, Sihang Zhou, Long Zhao, Zhe Liu, Xinwang Liu. (2022). Deep Fusion Clustering Network With Reliable Structure Preservation. IEEE Transactions on Neural Networks and Learning Systems. (中科院一区) [[code](https://github.com/gongleii/DFCN-RSP)]
 12. Yanyu Hu, Long Zhao, Zhao Li, Xiangjun Dong, Tiantian Xu, Yuhai Zhao. Classifying the multi-omics data of gastric cancer using a deep feature selection method[J]. Expert Systems with Applications, 2022, 200: 116813. （SCI，中科院一区）[[code](https://github.com/huyy96/RDFS)]
-13. 胡艳羽，赵龙，董祥军，两阶段深度特征选择技术，2022.07，计算机科学（CCF B类期刊）
+13. 胡艳羽，赵龙，董祥军，两阶段深度特征选择技术，2022.07，计算机科学（**中文核心期刊**）
 14. Yangguang Shao, Yingying Sun, Hongjiao Guan*. Dual Self-Paced SMOTE for Imbalanced Data[C]//2022 26th International Conference on Pattern Recognition (ICPR). IEEE, 2022: 3083-3089.(CCF C)
 15. Yanyu Hu, Long Zhao*, Zhao Li, Xiangjun Dong*, Tiantian Xu, Yuhai Zhao. Classifying the multi-omics data of gastric cancer using a deep feature selection method. Expert Systems with Applications,2022,116813. (JCR Q1, 中科院1区)
 16. Tianwei Zhang, Chuanhou Sun, Zhiyong Cheng*, Xiangjun Dong*. AENAR: An aspect-aware explainable neural attentional recommender model for rating predication. Expert Systems with Applications, 2022, 116717. (JCR Q1, 中科院1区)
