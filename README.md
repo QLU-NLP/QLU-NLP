@@ -12,8 +12,8 @@
 ### 2026年已授权专利0项:
 
 ## 2025 Publications & Patents
-### 2025年已发表/录用论文目前共29篇，其中：CCF A/中科院1区论文14篇；CCF B/中科院2区论文10篇；CCF C/中科院3区论文5篇。
-### CCF A/中科院1区论文14篇：
+### 2025年已发表/录用论文目前共32篇，其中：CCF A/中科院1区论文16篇；CCF B/中科院2区论文10篇；CCF C/中科院3区论文6篇。
+### CCF A/中科院1区论文16篇：
 1. Qian Zhang, Shoujin Wang, Longbing Cao, Defu Lian, Haibo Zhang, Wenpeng Lu*. Semantic Relation Guided Dual-view Contrastive Learning for Session-based Recommendations [J]. **ACM Transactions on Information Systems**. 2025, 43(6): 1-36. (**CCF A**, JCR Q1) [[code](https://github.com/Nishikata97/SCL-SR)]
 2. Yishuo Li, Qi Zhang, Wenpeng Lu*, Xueping Peng, Weiyu Zhang, Jiasheng Si, Yongshun Gong, Liang Hu. Time-aware Medication Recommendation via Intervention of Dynamic Treatment Regimes. Proceedings of the ACM Web Conference (**WWW 2025**) [C]. Sydney, Australia, 2025: 5161-5172. (**CCF A**) [[code](https://github.com/liyifo/MR-DTR)]
 3. Ruifan Zuo, Chaoqun Zheng*, Lei Zhu, Wenpeng Lu, Yuanyuan Xiang, Zhao Li, Xiaofeng Qu. Learning Together Securely: Prototype-based Federated Multi-modal Hashing for Safe and Efficient Multi-modal Retrieval, Proceedings of the 39th AAAI Conference on Artificial Intelligence (**AAAI 2025**) [C]. Philadelphia, Pennsylvania, USA, 2025, 39(21): 23108-23116. (**CCF A**) [[code](https://github.com/vindahi/PMFH)]
@@ -44,7 +44,7 @@
 9. Chunlin Lu, Yongheng Zhang, Peng Wang, Wenpeng Lu and Libo Qin*. MdCoT: Medical Diagnosis Chain-of-Thought with Self-Diagnostic Refinement for Alzheimer’s Disease. Proceedings of the 2025 IEEE International Conference on Multimedia and Expo (**ICME 2025**) [C]. Nantes, France, 2025: 1-6. (**CCF B**)
 10. Libo Qin, Fuxuan Wei, Qiguang Chen, Jingxuan Zhou, Shijue Huang, Jiasheng Si, Wenpeng Lu, Wanxiang Che*. Croprompt: Cross-task interactive prompting for zero-shot spoken language understanding. Proceedings of the 50th IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2025**) [C]. Hyderabad, India, 2025: 1-5. (**CCF B**) [[code](https://github.com/awake020/CroPrompt)]
 
-### CCF C/中科院3区论文5篇:
+### CCF C/中科院3区论文6篇:
 1. Rui Wang, Yonghe Chen, Weiyu Zhang*, Jiasheng Si，Hongjiao Guan，Xueping Peng, and Wenpeng Lu. MedConMA: A Confidence-Driven Multi-Agent Framework for Medical Q&A. Proceedings of the 29th Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD 2025**) [C]. Sydney, Australia, 2025: 421-433. (**CCF C**) [[code](https://github.com/w1031343245/MedConMA/tree/master)]
 2. Yong Shang, Weiyu Zhang*, Huiting Li, Yang Liu, Wenpeng Lu. A Novel Framework for Multi-hop Reasoning via Alternate Entity and Sequence Generation. Proceedings of the 29th Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD 2025**) [C]. Sydney, Australia, 2025: 456-467. (**CCF C**) [[code](https://github.com/SANJINPANG/AESG-multihop-reasoning.git)]
 3. Sibo Wei, Xueping Peng, Yan Jiang*, Zhao Li, Yan Liu, Zhiqiang Wang, Wenpeng Lu*. Improving Medical Question Summarization through Re-ranking. Proceedings of the 2025 International Joint Conference on Neural Network (**IJCNN 2025**) [C]. Rome, Italy, 2025: 1-8. (**CCF C**) [[code](https://github.com/yrbobo/MQS-Reranker)]
