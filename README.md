@@ -12,7 +12,7 @@
 ### 2026年已授权专利0项:
 
 ## 2025 Publications & Patents
-### 2025年已发表/录用论文目前共32篇，其中：CCF A/中科院1区论文16篇；CCF B/中科院2区论文10篇；CCF C/中科院3区论文6篇。
+### 2025年已发表/录用论文目前共33篇，其中：CCF A/中科院1区论文16篇；CCF B/中科院2区论文11篇；CCF C/中科院3区论文6篇。
 ### CCF A/中科院1区论文16篇：
 1. Qian Zhang, Shoujin Wang, Longbing Cao, Defu Lian, Haibo Zhang, Wenpeng Lu*. Semantic Relation Guided Dual-view Contrastive Learning for Session-based Recommendations [J]. **ACM Transactions on Information Systems**. 2025, 43(6): 1-36. (**CCF A**, JCR Q1) [[code](https://github.com/Nishikata97/SCL-SR)]
 2. Yishuo Li, Qi Zhang, Wenpeng Lu*, Xueping Peng, Weiyu Zhang, Jiasheng Si, Yongshun Gong, Liang Hu. Time-aware Medication Recommendation via Intervention of Dynamic Treatment Regimes. Proceedings of the ACM Web Conference (**WWW 2025**) [C]. Sydney, Australia, 2025: 5161-5172. (**CCF A**) [[code](https://github.com/liyifo/MR-DTR)]
@@ -32,7 +32,7 @@
 16. Yaowen Hu, Wenxuan Tu*, Yue Liu, Miaomiao Li, Wenpeng Lu, Zhigang Luo, Xinwang Liu, Ping Chen. Divide-Then-Rule: A Cluster-Driven Hierarchical Interpolator for Attribute-Missing Graphs [C]. Proceedings of the 33rd ACM International Conference on Multimedia (**ACM MM 2025**). New York, NY, USA, 2025: 10905-10914. (**CCF A**)
 
 
-### CCF B/中科院2区论文10篇:
+### CCF B/中科院2区论文11篇:
 1. Jiasheng Si, Haiyang Zhu, Yibo Zhao, Weiyu Zhang, Tianyi Wang, Wenpeng Lu, Deyu Zhou*. Scene Generalization for Biomedical Fact Verification via Hierarchical Mixture of Experts [J]. **Information Sciences**, 2025: 122527. (**中科院2区**)
 2. Luyang Zhang, Shuaimin Li, Yishuo Li, Kunpeng Zhang, Kaiyuan Zhang, Cong Wang, Wenpeng Lu*. RoDEval: A Robust Word Sense Disambiguation Evaluation Framework for Large Language Models [C]. Proceedings of the 30th Empirical Methods in Natural Language Processing (**EMNLP 2025**) [C]. Suzhou, China, 2025: 17095-17126. (**CCF B**) [[code](https://github.com/DayDream405/RoDEval)]
 3. Xueguan Zhao, Wenpeng Lu*, Chaoqun Zheng, Weiyu Zhang, Jiasheng Si*, Deyu Zhou. Plan Dynamically, Express Rhetorically: A Debate-Driven Rhetorical Framework for Argumentative Writing. Proceedings of the 30th Empirical Methods in Natural Language Processing (**EMNLP 2025**) [C]. Suzhou, China, 2025: 9562-9584. (**CCF B**) [[code](https://github.com/zxg-x/DARE)]
