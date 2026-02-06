@@ -13,6 +13,11 @@
 2. Guocheng Hu, Chaoqun Zheng*, Hongjiao Guan, Hui Cui, Shiwei Wu, Wenpeng Lu. Seeing is Believing: Comprehensive Self-reflective Evaluation System for Large Multi-modal Models. Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing(**ICASSP 2026**)[C]. Barcelona, 2026. (**CCF-B**)[[code](https://github.com/Petofi-romance/SRES)]
 
 ### CCF C/中科院3区论文0篇：
+1. Yuhang Wang, Ruixiang Jia*, Weiyu Zhang*, Wenpeng Lu, Yan Jiang, Jiabing Zhu, Shiwei Wu, Tong Chen. Navigator: A Knowledge Graph and Agent-based Framework for Guiding Large Language Models toward Accurate and Reliable Medical Reasoning. Proceedings of the 29th Computer Supported Cooperative Work in Design (**CSCWD 2026**) [C]. Fuzhou, China, 2026. (**CCF C**) (accepted) [[code](https://github.com/wyh6122/Navigator)]
+2. Jianlei Wang, Kangjun Liu, Weiyu Guo*, Yan Jiang, Jianbin Guo, Xuegang Liu, Hua Lu, Weiyu Zhang and Wenpeng Lu*. Uncovering Risks of Neutral Medical Information Dissemination: Modeling Anxiety Amplification via Multi-Agent Simulation. Proceedings of the 29th International Conference on Computer Supported Cooperative Work in Design (**CSCWD 2026**) [C]. Fuzhou, China, 2026. (**CCF C**) (accepted) [[code](https://github.com/MisakaMikoto766/Neutral-Medical-Information-Dissemination)]
+3. Guoyu Ma, Weiyu Guo*, Hongjiao Guan*, Kun Wu, Donglei Zhang, Xiaoli Zheng, Cong Liu, Wenpeng Lu. PGMAF: Prototype-Guided Modal Adaptive Fusion for Multimodal Sentiment Analysis The 2026 29th International Conference on Computer Supported Cooperative Work in Design (**CSCWD 2026**)[C]. Fuzhou, China, 2026. (**CCF C**) (accepted) [[code](https://github.com/Kaisa777/PGMAF)]
+
+
 
 ### 2026年已授权专利0项:
 
