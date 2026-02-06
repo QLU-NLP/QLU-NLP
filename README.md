@@ -1,22 +1,24 @@
 # Research Group's Annual Work
 
 ## 2026 Publications & Patents
-**2026年已发表/录用论文目前共9篇，其中：CCF A/中科院1区论文4篇：CCF B/中科院2区论文2篇；CCF C/中科院3区论文3篇。**
+**2026年已发表/录用论文目前共12篇，其中：CCF A/中科院1区论文4篇：CCF B/中科院2区论文3篇；CCF C/中科院3区论文5篇。**
 ### CCF A/中科院1区论文4篇：
 1. Jie Li, Dun Lan, Yongshun Gong, Long Zhao, Wenpeng Lu, Yuhai Zhao, Xiangjun Dong, Xiaoming Wu*. Missing Traffic Data Imputation with a Conditional Diffusion Framework [J]. **Expert Systems With Applications**. 2026, 296(C): 129140. (**中科院1区**, JCR Q1) [[code](https://github.com/Dun2323/VDM.git)]
 2. Ke Xiao, Ping Qiu, Dun Lan, Xiangjun Dong*, Lei Guo, Yuhai Zhao, Yongshun Gong, Long Zhao. HU-RNSP: Efficiently Mining High-utility Repeated Negative Sequential Patterns [J]. **Information Processing & Management**. 2026, 63(2): 104402. （**中科院1区**, JCR Q1）[[code](https://github.com/qluxk/looseHurnsp/tree/master)]
 3. Xiangjun Dong, Yicong Zhen, Ping Qiu, Jing Chi*, Lei Guo, Wenpeng Lu, Long Zhao, Yongshun Gong, Yuhai Zhao. DS_HURNSP: An Effective Method for Mining High Utility Repeated Negative Sequential Patterns from Data Streams [J]. **Information Processing & Management**. 2026, 63(4): 104637. (**中科院1区**, JCR Q1)
 4. Xiaowen Cui, Xue Dong, Ping Qiu, Chuanhou Sun, Yuhai Zhao, Wenpeng Lu, Xiangjun Dong*. TaNSP: An Efficient Target Pattern Mining Algorithm Based on Negative Sequential Pattern [J]. **Information Processing & Management**. 2026, 63(4): 104643. (**中科院1区**, JCR Q1)
 
-### CCF B/中科院2区论文2篇：
+### CCF B/中科院2区论文3篇：
 1. Jiasheng Si, Yingjie Zhu, Rui Wang, Wenpeng Lu, Yulan He*, Deyu Zhou*. Topic-enhanced Argument Mining via Mutual Learning [J]. **Frontiers of Computer Science**, 2026, 20(1): 1-12. (**中科院二区**, CCF-B)
 2. Guocheng Hu, Chaoqun Zheng*, Hongjiao Guan, Hui Cui, Shiwei Wu, Wenpeng Lu. Seeing is Believing: Comprehensive Self-reflective Evaluation System for Large Multi-modal Models. Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing(**ICASSP 2026**)[C]. Barcelona, 2026. (**CCF-B**)[[code](https://github.com/Petofi-romance/SRES)]
+3. Hongjiao Guan, Chuanlong Li, Weiyu Zhang∗, Ying Lian, Jianbin Guo, Wenpeng Lu. Biomed-R2: Joint Diversity Retrieval and Evidence Reasoning for Biomedical Question Answering. Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing(**ICASSP 2026**)[C]. Barcelona, 2026. (**CCF-B**)[[code](https://github.com/jiaoshuier/Biomed-R2)]
 
-### CCF C/中科院3区论文3篇：
+### CCF C/中科院3区论文5篇：
 1. Yuhang Wang, Ruixiang Jia*, Weiyu Zhang*, Wenpeng Lu, Yan Jiang, Jiabing Zhu, Shiwei Wu, Tong Chen. Navigator: A Knowledge Graph and Agent-based Framework for Guiding Large Language Models toward Accurate and Reliable Medical Reasoning. Proceedings of the 29th Computer Supported Cooperative Work in Design (**CSCWD 2026**) [C]. Fuzhou, China, 2026. (**CCF C**) (accepted) [[code](https://github.com/wyh6122/Navigator)]
 2. Jianlei Wang, Kangjun Liu, Weiyu Guo*, Yan Jiang, Jianbin Guo, Xuegang Liu, Hua Lu, Weiyu Zhang and Wenpeng Lu*. Uncovering Risks of Neutral Medical Information Dissemination: Modeling Anxiety Amplification via Multi-Agent Simulation. Proceedings of the 29th International Conference on Computer Supported Cooperative Work in Design (**CSCWD 2026**) [C]. Fuzhou, China, 2026. (**CCF C**) (accepted) [[code](https://github.com/MisakaMikoto766/Neutral-Medical-Information-Dissemination)]
 3. Guoyu Ma, Weiyu Guo*, Hongjiao Guan*, Kun Wu, Donglei Zhang, Xiaoli Zheng, Cong Liu, Wenpeng Lu. PGMAF: Prototype-Guided Modal Adaptive Fusion for Multimodal Sentiment Analysis The 2026 29th International Conference on Computer Supported Cooperative Work in Design (**CSCWD 2026**)[C]. Fuzhou, China, 2026. (**CCF C**) (accepted) [[code](https://github.com/Kaisa777/PGMAF)]
 4. Yonghe Chen, Xiaoding Zhou*, Xinxiao Qiao, Ying Lian, Weiyu Zhang*,Wenpeng Lu, Jiabing Zhu, Jianbin Guo. KGDAgents: A Knowledge Graph Enhanced Multi-agent Framework For Clinical Diagnosis. Proceedings of the 29th Computer Supported Cooperative Work in Design (**CSCWD 2026**) [C]. Fuzhou, China, 2026. (**CCF C**) (accepted) [[code](https://github.com/Yh-C12138/KGDAgents)]
+5. Jinshuo Zhang, Xiaoding Zhou, Xinxiao Qiao*, Weiyu Zhang*, Guoqiang Chen, Xiaoli Zheng, Cong Liu, Wenpeng Lu. CKG-RAG: Enhancing LLM Reasoning in Medical Domain Using Contextual Knowledge GraphsProceedings of the 29th Computer Supported Cooperative Work in Design (**CSCWD 2026**) [C]. Fuzhou, China, 2026. (**CCF C**) (accepted) [[code](https://github.com/zakelawen/MedGRAG)]
 
 
 
