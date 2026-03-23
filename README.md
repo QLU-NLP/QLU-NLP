@@ -21,6 +21,7 @@
 4. Yonghe Chen, Xiaoding Zhou*, Xinxiao Qiao, Ying Lian, Weiyu Zhang*,Wenpeng Lu, Jiabing Zhu, Jianbin Guo. KGDAgents: A Knowledge Graph Enhanced Multi-agent Framework For Clinical Diagnosis. Proceedings of the 29th Computer Supported Cooperative Work in Design (**CSCWD 2026**) [C]. Fuzhou, China, 2026. (**CCF C**) (accepted) [[code](https://github.com/Yh-C12138/KGDAgents)]
 5. Jinshuo Zhang, Xiaoding Zhou, Xinxiao Qiao*, Weiyu Zhang*, Guoqiang Chen, Xiaoli Zheng, Cong Liu, Wenpeng Lu. CKG-RAG: Enhancing LLM Reasoning in Medical Domain Using Contextual Knowledge Graphs. Proceedings of the 29th Computer Supported Cooperative Work in Design (**CSCWD 2026**) [C]. Fuzhou, China, 2026. (**CCF C**) (accepted) [[code](https://github.com/zakelawen/MedGRAG)]
 6. Hongpei Ji, Xiaoli Zheng, Cong Liu, Ning Wei, Jingzhi Chi, Wenpeng Lu, Xiaoqiang Ren*. Text-Centric Distribution-Aligned Fusion for Robust Multimodal Sentiment Analysis with Missing Modalities. Proceedings of the 29th International Conference on Computer Supported Cooperative Work in Design (**CSCWD 2026**) [C]. Fuzhou, China, 2026. (**CCF C**) (accepted)[[code](https://github.com/JHP888/skills-github-pages)]
+7. Zhizhuo Zhao, Jiasheng Si, Xueping Peng, Muyun Yang, Bing Xu, Weiyu Zhang*, Wenpeng Lu*, Yi-Fei Wang*. MLTCM: A Multi-label Syndrome Differentiation Benchmark in Traditional Chinese Medicine. **ACM Transactions on Asian and Low-Resource Language Information Processing** [J]. 2026. (**CCF C**) (accepted) [[code](https://github.com/zhaozhizhuo/MLTCM-FMHTM)]
 
 
 ### 2026年已授权专利0项:
