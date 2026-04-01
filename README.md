@@ -24,7 +24,7 @@
 7. Zhizhuo Zhao, Jiasheng Si, Xueping Peng, Muyun Yang, Bing Xu, Weiyu Zhang*, Wenpeng Lu*, Yi-Fei Wang*. MLTCM: A Multi-label Syndrome Differentiation Benchmark in Traditional Chinese Medicine. **ACM Transactions on Asian and Low-Resource Language Information Processing** [J]. 2026. (**CCF C**) (accepted) [[code](https://github.com/zhaozhizhuo/MLTCM-FMHTM)]
 
 
-### 2026年已授权专利0项:
+### 2026年已授权专利2项:
 1. 鹿文鹏, 李一硕, 张维玉, 任晓强, 甄业广. 基于药物映射和诊断增强的药物推荐方法和装置, 2026-03-26, 中国, ZL 202511643798.6
 2. 鹿文鹏, 李一硕, 张维玉, 任晓强, 管红娇, 郑超群, 王聪. 基于语义驱动和舌象补全的草药推荐方法和系统, 2026-02-06, 中国, ZL 202511662496.3
 
