@@ -5,7 +5,8 @@
 ### CCF A/中科院1区论文5篇：
 1. Jie Li, Dun Lan, Yongshun Gong, Long Zhao, Wenpeng Lu, Yuhai Zhao, Xiangjun Dong, Xiaoming Wu*. Missing Traffic Data Imputation with a Conditional Diffusion Framework [J]. **Expert Systems With Applications**. 2026, 296(C): 129140. (**中科院1区**, JCR Q1) [[code](https://github.com/Dun2323/VDM.git)]
 2. Ke Xiao, Ping Qiu, Dun Lan, Xiangjun Dong*, Lei Guo, Yuhai Zhao, Yongshun Gong, Long Zhao. HU-RNSP: Efficiently Mining High-utility Repeated Negative Sequential Patterns [J]. **Information Processing & Management**. 2026, 63(2): 104402. （**中科院1区**, JCR Q1）[[code](https://github.com/qluxk/looseHurnsp/tree/master)]
-3. Xiangjun Dong, Yicong Zhen, Ping Qiu, Jing Chi*, Lei Guo, Wenpeng Lu, Long Zhao, Yongshun Gong, Yuhai Zhao. DS_HURNSP: An Effective Method for Mining High Utility Repeated Negative Sequential Patterns from Data Streams [J]. **Information Processing & Management**. 2026, 63(4): 104637. (**中科院1区**, JCR Q1)
+3. Xiangjun Dong, Yicong Zhen, Ping Qiu, Jing Chi*, Lei Guo, Wenpeng Lu, Long Zhao, Yongshun Gong, Yuhai Zhao. DS_HURNSP: An Effective Method for Mining High Utility Repeated Negative Sequential Patterns from Data Streams [J]. **Information Processing & Management**. 2026, 63(4): 104637. (**中科院1区**, JCR Q1)[[code](https://github.com/scientific123research/DS_HURNSP-.git
+)]
 4. Xiaowen Cui, Xue Dong, Ping Qiu, Chuanhou Sun, Yuhai Zhao, Wenpeng Lu, Xiangjun Dong*. TaNSP: An Efficient Target Pattern Mining Algorithm Based on Negative Sequential Pattern [J]. **Information Processing & Management**. 2026, 63(4): 104643. (**中科院1区**, JCR Q1)[[code](https://github.com/xiaowencui37-cmd/MY-CODE)]
 5. Chaoqun Zheng, Yafang Li, Lei Zhu, Ruifan Zuo, Tianyi Wang, Fengling Li, Weiyu Zhang, Wenpeng Lu*. From Incomplete to Valuable: Partial Cross-modal Hashing via Coarse-to-Fine Semantic Completion[J]. **IEEE Transactions on Multimedia**. 2026. (**中科院1区**, CCF A, JCR Q1) (accepted)[[code](https://github.com/Lyf1590/PCH-CFSC)]
 
