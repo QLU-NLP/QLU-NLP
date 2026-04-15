@@ -3,6 +3,7 @@
 ## 2026 Publications & Patents
 **2026年已发表/录用论文目前共15篇，其中：CCF A/中科院1区论文5篇：CCF B/中科院2区论文4篇；CCF C/中科院3区论文6篇。**
 ### CCF A/中科院1区论文5篇：
+[[Link](https://nlp.qlu.edu.cn/12218/list.htm)]
 1. Jie Li, Dun Lan, Yongshun Gong, Long Zhao, Wenpeng Lu, Yuhai Zhao, Xiangjun Dong, Xiaoming Wu*. Missing Traffic Data Imputation with a Conditional Diffusion Framework [J]. **Expert Systems With Applications**. 2026, 296(C): 129140. (**中科院1区**, JCR Q1) [[code](https://github.com/Dun2323/VDM.git)]
 2. Ke Xiao, Ping Qiu, Dun Lan, Xiangjun Dong*, Lei Guo, Yuhai Zhao, Yongshun Gong, Long Zhao. HU-RNSP: Efficiently Mining High-utility Repeated Negative Sequential Patterns [J]. **Information Processing & Management**. 2026, 63(2): 104402. （**中科院1区**, JCR Q1）[[code](https://github.com/qluxk/looseHurnsp/tree/master)]
 3. Xiangjun Dong, Yicong Zhen, Ping Qiu, Jing Chi*, Lei Guo, Wenpeng Lu, Long Zhao, Yongshun Gong, Yuhai Zhao. DS_HURNSP: An Effective Method for Mining High Utility Repeated Negative Sequential Patterns from Data Streams [J]. **Information Processing & Management**. 2026, 63(4): 104637. (**中科院1区**, JCR Q1)[[code](https://github.com/scientific123research/DS_HURNSP-.git
