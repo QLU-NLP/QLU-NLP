@@ -1,6 +1,6 @@
 # Research Group's Annual Work
 ## 2026 Publications & Patents
-### 已发表/录用论文目前共15篇，其中：CCF A/中科院1区论文5篇：CCF B/中科院2区论文4篇；CCF C/中科院3区论文6篇。
+### 已发表/录用论文目前共16篇，其中：CCF A/中科院1区论文5篇：CCF B/中科院2区论文4篇；CCF C/中科院3区论文7篇。
 [[论文详情](https://nlp.qlu.edu.cn/12218/list.htm#year-2026)]
 
 ### 已授权专利2项:
